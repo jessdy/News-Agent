@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-02 00:14
+**最后更新时间**: 2026-06-02 08:41
+
+---
+
+## 🆕 最新更新 (2026-06-02 08:41)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026中国AI智能体领航者揭晓，见证智能体应用爆发元年](https://www.leiphone.com/category/industrynews/VEQzCEDU0APjbVou.html)
+**发布时间**: 2026-06-02 14:35
+
+#### [曝豆包6月下旬正式付费；贾跃亭及乐视控股，被恢复执行26亿元；英伟达正式进军个人电脑芯片市场，正面挑战英特尔；73天！宇树科技IPO过会](https://www.leiphone.com/category/zaobao/yAJQisxWU7cumsJk.html)
+**发布时间**: 2026-06-02 11:24
+
+#### [“优化管线”决胜，“数据筛选”筑基：从ICRA 2026看世界模型的技术发展趋势](https://www.leiphone.com/category/robot/IH4SUHF1ihnMy0Ne.html)
+**发布时间**: 2026-06-02 11:21
+
+#### [从「只够发一个月工资」到营收5亿，零一汽车做对了什么？](https://www.leiphone.com/category/transportation/YWDYr6e3rN64B5IF.html)
+**发布时间**: 2026-06-02 11:06
+
+#### [ICRA 2026 收录成果：Agentic Fast-Slow Planning打通大模型推理与实时控制，让具身智能更稳、更快](https://www.leiphone.com/category/robot/uwy7axUrzoMJapQ4.html)
+**发布时间**: 2026-06-02 10:38
+
+#### [千觉机器人亮相 ICRA 2026 Workshop：面向真实世界操作，机器人需要一套“触觉底座”](https://www.leiphone.com/category/robot/Ss8tddP1aKt5qqdo.html)
+**发布时间**: 2026-06-02 10:28
+
+#### [Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件](https://www.leiphone.com/category/industrynews/NwSFpk8WjfjsmFpP.html)
+**发布时间**: 2026-06-02 10:22
+
+#### [ICRA 2026 | 首个 36 自由度双臂灵巧操作 VLA 模型，开源！](https://www.leiphone.com/category/robot/ZLhJjZVkHkws8Ski.html)
+**发布时间**: 2026-06-02 10:22
+
+#### [独家｜前小米崔宝秋低调创业，揭开家庭机器人的最优解](https://www.leiphone.com/category/ai/09QWfOVoTbKrJfIH.html)
+**发布时间**: 2026-06-02 10:16
+
+#### [融资数亿元，我们和贝塔无限刘武龙聊了聊具身系统创新](https://www.leiphone.com/category/ai/BZVmvZeYhmXZawA4.html)
+**发布时间**: 2026-06-02 10:08
+
+#### [理想停产最赚钱的车，交出一份「反内卷」的财报](https://www.leiphone.com/category/transportation/x3ymsavV9YAtMx7C.html)
+**发布时间**: 2026-06-02 10:01
+
+#### [ICRA 2026维也纳首日：VLA碾压全场，灵巧操作产业化信号爆发｜ICRA日报](https://www.leiphone.com/category/robot/U1Z9pMdNcBaY5COP.html)
+**发布时间**: 2026-06-02 09:49
+
+#### [早古神帖还会续更吗？天涯社区正式恢复访问；曝美国人形机器人已投入俄乌战场，美军拟造5万机器人大军；奔驰或在美国面临禁售禁产](https://www.leiphone.com/category/zaobao/H4KB4Yaqa6dhc9hf.html)
+**发布时间**: 2026-06-02 08:58
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-02日刊](https://hex2077.dev/docs/2026-06/2026-06-02/)
+**发布时间**: 2026-06-02 10:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence](https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/)
+**发布时间**: 2026-06-02 06:00
+
+#### [NVIDIA Jetson Brings Agentic AI to the Physical World](https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/)
+**发布时间**: 2026-06-02 02:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑](https://www.qbitai.com/2026/06/427729.html)
+**发布时间**: 2026-06-02 03:57
+
+#### [Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件](https://www.qbitai.com/2026/06/427730.html)
+**发布时间**: 2026-06-02 03:15
+
+#### [云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路](https://www.qbitai.com/2026/06/427472.html)
+**发布时间**: 2026-06-02 01:33
+
+#### [老黄的Token经济学翻车了！微软亚马逊通通跳车](https://www.qbitai.com/2026/06/427541.html)
+**发布时间**: 2026-06-02 00:33
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building a secure auth code flow setup using AgentCore Gateway with MCP clients](https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/)
+**发布时间**: 2026-06-02 03:23
 
 ---
 
