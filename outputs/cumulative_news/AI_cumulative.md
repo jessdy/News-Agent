@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-03 00:23
+**最后更新时间**: 2026-06-03 09:22
+
+---
+
+## 🆕 最新更新 (2026-06-03 09:22)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨日薪高达17万：华尔街为何疯抢「AI落地官」？](https://www.leiphone.com/category/industrynews/CWwpUPhxV4XiT1WK.html)
+**发布时间**: 2026-06-03 14:53
+
+#### [千问宣布向第三方Agent、Skill全面开放，肯德基、瑞幸、蜜雪冰城、东航将首批接入](https://www.leiphone.com/category/industrynews/wsfm6yIgeRQ9ij1X.html)
+**发布时间**: 2026-06-03 14:43
+
+#### [独家｜成立10个月融资10亿元，星源智加码世界模型](https://www.leiphone.com/category/robot/GAmW6Awf44VOgN0q.html)
+**发布时间**: 2026-06-03 14:25
+
+#### [击败主场霸主英伟达与PI！千寻智能登上具身智能「奥林匹克」最高领奖台](https://www.leiphone.com/category/robot/BUcvmdZCB019Vzpd.html)
+**发布时间**: 2026-06-03 13:59
+
+#### [独家实拍｜苏昊旗下机器人全球首次亮相，苏度科技惊艳 ICRA 2026](https://www.leiphone.com/category/robot/YZ4WenhvXsr0SVB6.html)
+**发布时间**: 2026-06-03 13:45
+
+#### [独家｜原华为终端云大模型技术负责人、天才少年李一同加盟吉翼智能](https://www.leiphone.com/category/robot/Fuw8flcg1tdQR1aG.html)
+**发布时间**: 2026-06-03 13:38
+
+#### [ICRA 2026五篇最佳论文Finalist出炉！灵巧手三雄争霸，Day 1精华全在这｜ICRA 日报](https://www.leiphone.com/category/robot/Vh6UTLMHOhAzCsVq.html)
+**发布时间**: 2026-06-03 10:55
+
+#### [雷峰网现场直击，ICRA 2026开幕全景解码！](https://www.leiphone.com/category/robot/t3oqWMirgZAJlUr2.html)
+**发布时间**: 2026-06-03 10:01
+
+#### [中国工程院院士金涌 ：全固态电池量产至少再等十年 | 大湾区车展观察](https://www.leiphone.com/category/transportation/fpS0tNUGZ3WzNanS.html)
+**发布时间**: 2026-06-02 21:30
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-03日刊](https://hex2077.dev/docs/2026-06/2026-06-03/)
+**发布时间**: 2026-06-03 11:09
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，Anthropic提交了招股书！](https://www.qbitai.com/2026/06/428407.html)
+**发布时间**: 2026-06-03 03:55
+
+#### [刚刚，Meta Skill来了](https://www.qbitai.com/2026/06/428335.html)
+**发布时间**: 2026-06-03 01:29
+
+#### [橡木果发布“本能驱动”技术路线，开辟自下而上具身智能新范式](https://www.qbitai.com/2026/06/428413.html)
+**发布时间**: 2026-06-02 13:01
+
+#### [滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎](https://www.qbitai.com/2026/06/428331.html)
+**发布时间**: 2026-06-02 12:28
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT researchers teach AI models to interpret charts](https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603)
+**发布时间**: 2026-06-03 00:00
 
 ---
 
