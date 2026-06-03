@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-02 08:41
+**最后更新时间**: 2026-06-03 00:23
+
+---
+
+## 🆕 最新更新 (2026-06-03 00:23)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [BCS 2026|齐向东：中美网安产业相差12倍，AI革命催生千亿级增量市场](https://www.leiphone.com/category/industrynews/ruUeurLUnJpRTu9J.html)
+**发布时间**: 2026-06-02 22:41
+
+#### [橡木果发布“本能驱动”技术路线，为机器人赋予“具身本能”](https://www.leiphone.com/category/industrynews/kUT9gYphwdNIkstm.html)
+**发布时间**: 2026-06-02 22:02
+
+#### [滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎](https://www.leiphone.com/category/industrynews/TLncvcB4REobjDD1.html)
+**发布时间**: 2026-06-02 20:06
+
+#### [对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」](https://www.leiphone.com/category/ai/NdytmjkC1MmPszoq.html)
+**发布时间**: 2026-06-02 18:46
+
+#### [AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？](https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html)
+**发布时间**: 2026-06-02 18:08
+
+#### [20款游戏防沉迷实测拉开差距，家长用好管理工具成关键](https://www.leiphone.com/category/industrynews/wE6cbVFYNVjCvx4G.html)
+**发布时间**: 2026-06-02 18:07
+
+#### [Momenta高阶自动驾驶示范应用许可落地新城市 Robotaxi全球布局加速](https://www.leiphone.com/category/industrynews/FnNWmRGGBxasmJ9I.html)
+**发布时间**: 2026-06-02 17:28
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw](https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/)
+**发布时间**: 2026-06-02 22:00
+
+#### [NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local](https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/)
+**发布时间**: 2026-06-02 19:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [The art and science of hyperparameter optimization on Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/)
+**发布时间**: 2026-06-02 17:39
+
+#### [Object detection with Amazon Nova 2 Lite](https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/)
+**发布时间**: 2026-06-02 17:31
+
+#### [How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-02 15:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它](https://www.qbitai.com/2026/06/428092.html)
+**发布时间**: 2026-06-02 15:50
+
+#### [OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授](https://www.qbitai.com/2026/06/428003.html)
+**发布时间**: 2026-06-02 14:54
+
+#### [头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！](https://www.qbitai.com/2026/06/427922.html)
+**发布时间**: 2026-06-02 14:52
+
+#### [字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手](https://www.qbitai.com/2026/06/427810.html)
+**发布时间**: 2026-06-02 09:28
+
+#### [“豆包汽车”，目标市场10万-20万](https://www.qbitai.com/2026/06/427760.html)
+**发布时间**: 2026-06-02 08:12
+
+#### [百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA](https://www.qbitai.com/2026/06/427754.html)
+**发布时间**: 2026-06-02 07:47
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31)
+**发布时间**: 2026-06-02 14:13
 
 ---
 
