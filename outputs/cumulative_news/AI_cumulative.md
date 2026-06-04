@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-03 09:22
+**最后更新时间**: 2026-06-04 00:25
+
+---
+
+## 🆕 最新更新 (2026-06-04 00:25)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [NUS 余浩泳教授：外骨骼的轻量化与任务感知丨ICRA 2026](https://www.leiphone.com/category/ai/MCcFD9ZyKWLuFSwB.html)
+**发布时间**: 2026-06-03 21:27
+
+#### [宏利香港与阿里云达成战略合作，加速保险业AI规模化落地](https://www.leiphone.com/category/industrynews/J3XU4sTWcepPWWvO.html)
+**发布时间**: 2026-06-03 20:06
+
+#### [对话桥介数物尚阳星：机器人运动能力，远远没有被解决](https://www.leiphone.com/category/robot/OAl1Kvwa2rq9N4yx.html)
+**发布时间**: 2026-06-03 17:09
+
+#### [NUS 余浩泳教授：外骨骼的轻量化与任务感知丨ICRA 2026](https://www.leiphone.com/category/ai/PYN0oRnRzlHOje1t.html)
+**发布时间**: 2026-06-03 16:42
+
+#### [上海交大王贺升教授：从画地图到预测未来，传统 SLAM 正走出静态世界 | ICRA 2026](https://www.leiphone.com/category/industrynews/6skT5df7T8GJJdye.html)
+**发布时间**: 2026-06-03 16:40
+
+#### [从"各自为战"到"共生共筑"：信创产业的多路线安全逻辑](https://www.leiphone.com/category/industrynews/PP4OSjbCtQUK0i75.html)
+**发布时间**: 2026-06-03 16:40
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How to build self-driving AI operations on Amazon Bedrock at scale](https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/)
+**发布时间**: 2026-06-03 20:14
+
+#### [Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-06-03 17:55
+
+#### [Reducing container cold start times using SOCI index on DLAMI and DLC](https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/)
+**发布时间**: 2026-06-03 16:26
+
+#### [Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-06-03 15:56
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The next chapter in flood resilience: Open sourcing Google’s hydrology framework](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/)
+**发布时间**: 2026-06-03 18:37
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Teaching AI agents to ask better questions by playing “Battleship”](https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603)
+**发布时间**: 2026-06-03 17:00
+
+#### [Tod Machover receives George Peabody Medal for contributions to music and technology](https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603)
+**发布时间**: 2026-06-03 16:50
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale](https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/)
+**发布时间**: 2026-06-03 15:00
+
+#### [NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)
+**发布时间**: 2026-06-03 15:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots)
+**发布时间**: 2026-06-03 12:55
+
+#### [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)
+**发布时间**: 2026-06-03 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层](https://www.qbitai.com/2026/06/428703.html)
+**发布时间**: 2026-06-03 12:28
+
+#### [世界模型榜首易主！跨维智能登顶WorldArena](https://www.qbitai.com/2026/06/428435.html)
+**发布时间**: 2026-06-03 09:54
 
 ---
 
