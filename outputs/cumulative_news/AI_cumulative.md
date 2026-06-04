@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-04 00:25
+**最后更新时间**: 2026-06-04 08:44
+
+---
+
+## 🆕 最新更新 (2026-06-04 08:44)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [品牌出海大爆发！速卖通Brand+渗透近40%，涌现多个黑马品牌](https://www.leiphone.com/category/industrynews/kYCGjou9DcmYvGJV.html)
+**发布时间**: 2026-06-04 12:13
+
+#### [品牌出海大爆发！速卖通夏季大促品牌GMV渗透率近40%](https://www.leiphone.com/category/industrynews/Rv8Bf052rGJyLYAc.html)
+**发布时间**: 2026-06-04 12:12
+
+#### [CCIG 2026 在广州圆满落幕：4200 余位专家学者共绘图像图形发展新图景](https://www.leiphone.com/category/ai/E90R02svL2OFPlO7.html)
+**发布时间**: 2026-06-04 11:52
+
+#### [港中深王方鑫团队：3D 重建的「玻璃杯难题」，终于被摆上台面丨CVPR 2026](https://www.leiphone.com/category/ai/1379RWpvIZOGUt9v.html)
+**发布时间**: 2026-06-04 11:50
+
+#### [对话李斌&沈斐：20万的价格区间内，乐道L60是「神一样的存在」丨大湾区车展观察](https://www.leiphone.com/category/transportation/Ea1NFe5aQOcLPB1W.html)
+**发布时间**: 2026-06-04 11:17
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-04日刊](https://hex2077.dev/docs/2026-06/2026-06-04/)
+**发布时间**: 2026-06-04 10:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [A股账户可以买Robotaxi了](https://www.qbitai.com/2026/06/428954.html)
+**发布时间**: 2026-06-04 07:41
+
+#### [英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台](https://www.qbitai.com/2026/06/428942.html)
+**发布时间**: 2026-06-04 07:25
+
+#### [比亚迪与中国石化深化战略合作 共建智慧能源生态](https://www.qbitai.com/2026/06/428933.html)
+**发布时间**: 2026-06-04 06:58
+
+#### [LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局](https://www.qbitai.com/2026/06/428790.html)
+**发布时间**: 2026-06-04 03:43
+
+#### [一个GPT Plus会员的钱，够机器人跑一个月世界模型了](https://www.qbitai.com/2026/06/428791.html)
+**发布时间**: 2026-06-04 03:10
+
+#### [戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型](https://www.qbitai.com/2026/06/428778.html)
+**发布时间**: 2026-06-04 03:06
+
+#### [扣子3.0实测：手机就能远程遥控你电脑里的Agent](https://www.qbitai.com/2026/06/428648.html)
+**发布时间**: 2026-06-04 01:37
+
+#### [刚刚，李飞飞亲自下场定义世界模型](https://www.qbitai.com/2026/06/428752.html)
+**发布时间**: 2026-06-04 00:44
 
 ---
 
