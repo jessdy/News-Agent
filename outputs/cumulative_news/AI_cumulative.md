@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-05 00:00
+**最后更新时间**: 2026-06-05 08:38
+
+---
+
+## 🆕 最新更新 (2026-06-05 08:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨时隔五年，OpenAI为何非要吃机器人这口「回头草」？](https://www.leiphone.com/category/industrynews/0P8KvQPzWQpU9F40.html)
+**发布时间**: 2026-06-05 13:46
+
+#### [东南亚家庭“新三大件”  储能电池商家在Lazada卖断货](https://www.leiphone.com/category/industrynews/0HflOOY6vDsrdTAR.html)
+**发布时间**: 2026-06-05 12:30
+
+#### [ThinkAR AiLENS V1 AI智能眼镜正式于日本上市，亚洲市场布局持续扩展](https://www.leiphone.com/category/industrynews/AqCfShBxj7cZCuRD.html)
+**发布时间**: 2026-06-05 11:50
+
+#### [解决千万人「如厕难」，智能如厕机器人能否打开新赛道？](https://www.leiphone.com/category/weiwu/D6OsK64LSF2KLUqX.html)
+**发布时间**: 2026-06-05 11:17
+
+#### [ICRA 2026 现场：中国军团主导维也纳，新锐巨头混战具身智能深水区](https://www.leiphone.com/category/robot/FQ8kbFW5Lq956az4.html)
+**发布时间**: 2026-06-05 10:50
+
+#### [Gartner 高挺：机器人产业迈入 GPT-2 发展周期，企业落地切忌盲目布局人形机器人](https://www.leiphone.com/category/ai/sfDNUpnmow9ybrtR.html)
+**发布时间**: 2026-06-05 10:45
+
+#### [ICRA 2026完美收官！Best Paper双杀震撼学界，DirectDriveTech全场388赞摘最佳展品，东大AI新实验室惊喜成立](https://www.leiphone.com/category/robot/BIU7TVGaXSCfMRmJ.html)
+**发布时间**: 2026-06-05 10:42
+
+#### [每一口呼吸，都值得守护——世界无烟日，方太用科技守护厨房呼吸健康](https://www.leiphone.com/category/industrynews/IyOaYNtUwWnILh8d.html)
+**发布时间**: 2026-06-05 10:41
+
+#### [IDC 最新数据：追觅扫地机全球销量、销额双第一](https://www.leiphone.com/category/industrynews/5ebVp8fij4XglzKO.html)
+**发布时间**: 2026-06-05 10:25
+
+#### [小字不免责！因宣传语蹭LABUBU营销，奈雪赔偿泡泡玛特32万；iPhone改日期多出20G？苹果泼冷水；粉笔CEO张小龙辱骂学生：活该找不到工作](https://www.leiphone.com/category/zaobao/HiubaQdZiMf44U3A.html)
+**发布时间**: 2026-06-05 09:02
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-05日刊](https://hex2077.dev/docs/2026-06/2026-06-05/)
+**发布时间**: 2026-06-05 10:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [B站宣布启动AI创造公开赛 打造中国版Build in Public](https://www.qbitai.com/2026/06/430752.html)
+**发布时间**: 2026-06-05 07:38
+
+#### [100亿砸向人形，不如先让10万台机器狗走进家庭](https://www.qbitai.com/2026/06/429968.html)
+**发布时间**: 2026-06-05 07:21
+
+#### [活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了](https://www.qbitai.com/2026/06/429711.html)
+**发布时间**: 2026-06-05 06:56
+
+#### [全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住](https://www.qbitai.com/2026/06/429349.html)
+**发布时间**: 2026-06-05 06:33
+
+#### [阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一](https://www.qbitai.com/2026/06/429294.html)
+**发布时间**: 2026-06-05 06:12
+
+#### [刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？](https://www.qbitai.com/2026/06/429285.html)
+**发布时间**: 2026-06-05 04:18
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI](https://blogs.nvidia.com/blog/korea-ecosystem-2026/)
+**发布时间**: 2026-06-05 05:38
 
 ---
 
