@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-04 08:44
+**最后更新时间**: 2026-06-05 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:00)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [全球首个！材科源图发布有机高分子应用智能体](https://www.leiphone.com/category/ai/cPAorDy6hbflU7fy.html)
+**发布时间**: 2026-06-04 21:38
+
+#### [不卷价格和参数，中国汽车如何卖到5000万辆？](https://www.leiphone.com/category/transportation/cj8k172esGa3neuj.html)
+**发布时间**: 2026-06-04 19:25
+
+#### [面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」](https://www.leiphone.com/category/industrynews/WRAi6uWPkKnPmIWN.html)
+**发布时间**: 2026-06-04 18:09
+
+#### [何小鹏内部讲话曝光，「最美」机器人量产时间表出来了？](https://www.leiphone.com/category/industrynews/iu4aAqUhmLtjXqyM.html)
+**发布时间**: 2026-06-04 18:07
+
+#### [CVPR 2026：深度学习的「标准件」，正在被逐个拆掉](https://www.leiphone.com/category/industrynews/EvOI1x7Wt5zyH7qe.html)
+**发布时间**: 2026-06-04 18:06
+
+#### [独家｜华为系帧跃科技完成千万美金天使轮融资，将发布视频产品 Leadde](https://www.leiphone.com/category/industrynews/sMrvZOXASE7BkXSf.html)
+**发布时间**: 2026-06-04 18:03
+
+#### [石头科技发布618“开门红”战报，荣膺清洁电器品牌TOP1](https://www.leiphone.com/category/industrynews/fl4v5PiEHfRzgE8g.html)
+**发布时间**: 2026-06-04 16:32
+
+#### [蓝信发布2026全栈AI新品，打造100%国产化政企智能办公新范式](https://www.leiphone.com/category/industrynews/PcfF7wBxcwTGztOS.html)
+**发布时间**: 2026-06-04 16:17
+
+#### [慕尼黑工大Johannes Betz 教授：时速300公里的自动驾驶超车 ｜ ICRA 2026](https://www.leiphone.com/category/ai/GnG36DnUXsYO5uOR.html)
+**发布时间**: 2026-06-04 15:10
+
+#### [UT Austin朱玉可：人形机器人的数据困局怎么破？答案藏在「数据海绵」里 ｜ICRA 2026](https://www.leiphone.com/category/ai/6XQSEzLW61BM8QFo.html)
+**发布时间**: 2026-06-04 15:08
+
+#### [云鲸十年：张峻彬放下「张峻彬」](https://www.leiphone.com/category/robot/QLt1QJyAgK7MD2pz.html)
+**发布时间**: 2026-06-04 14:49
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/)
+**发布时间**: 2026-06-04 19:47
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)
+**发布时间**: 2026-06-04 18:57
+
+#### [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data)
+**发布时间**: 2026-06-04 12:24
+
+#### [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents)
+**发布时间**: 2026-06-04 00:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-06-04 16:59
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [PATH to boost AI training and career opportunities for industry-aligned jobs](https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604)
+**发布时间**: 2026-06-04 15:50
+
+#### [NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery](https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604)
+**发布时间**: 2026-06-04 12:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [重估比亚迪，从智驾开始](https://www.qbitai.com/2026/06/429192.html)
+**发布时间**: 2026-06-04 13:10
+
+#### [中国足球小将夺冠，比亚迪携手足球少年走向世界](https://www.qbitai.com/2026/06/429186.html)
+**发布时间**: 2026-06-04 13:00
+
+#### [CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI](https://www.qbitai.com/2026/06/429130.html)
+**发布时间**: 2026-06-04 11:56
+
+#### [连GitLab都开始裁程序员了](https://www.qbitai.com/2026/06/429117.html)
+**发布时间**: 2026-06-04 08:54
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/)
+**发布时间**: 2026-06-04 13:00
 
 ---
 
