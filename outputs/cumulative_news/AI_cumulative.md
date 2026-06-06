@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-06 09:54
+**最后更新时间**: 2026-06-06 23:57
+
+---
+
+## 🆕 最新更新 (2026-06-06 23:57)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Five labs, five minds: building a multi-model finance drama on small models](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
+**发布时间**: 2026-06-06 19:02
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [马斯克是SpaceX面子，她才是里子](https://www.qbitai.com/2026/06/431371.html)
+**发布时间**: 2026-06-06 10:14
 
 ---
 
