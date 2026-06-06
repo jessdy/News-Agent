@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-05 08:38
+**最后更新时间**: 2026-06-05 23:59
+
+---
+
+## 🆕 最新更新 (2026-06-05 23:59)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
+**发布时间**: 2026-06-05 22:18
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [比亚迪重磅发布中国首款4nm制程智驾芯片 布局高等级自动驾驶](https://www.leiphone.com/category/transportation/7dY2VaaFzmB8aCxi.html)
+**发布时间**: 2026-06-05 20:51
+
+#### [他用WPS笔记，把AI报错变成了可复用的“避坑指南”](https://www.leiphone.com/category/industrynews/my3uIlmkVcHIKgu3.html)
+**发布时间**: 2026-06-05 20:13
+
+#### [NTU 曹子昂教授团队：破解 3D 标注成本难题，只需一张图片丨CVPR 2026](https://www.leiphone.com/category/ai/gOCTM6K2fNwaBttQ.html)
+**发布时间**: 2026-06-05 19:02
+
+#### [从 INSPIRE 创想者大会看华为云：它正在 AI 时代给自己找一个更清晰的位置](https://www.leiphone.com/category/CorporateServices/93NsFoqxglrbXa26.html)
+**发布时间**: 2026-06-05 18:58
+
+#### [Coding 能力，正在颠覆大模型的估值逻辑](https://www.leiphone.com/category/industrynews/bwyozCVtFIOJynck.html)
+**发布时间**: 2026-06-05 18:53
+
+#### [CVPR 2026现场直击：CV与机器人的物理结界被彻底打破](https://www.leiphone.com/category/ai/SajB6MXFYXjJPEry.html)
+**发布时间**: 2026-06-05 18:47
+
+#### [银河通用创始人王鹤：具身智能正迈向专属的「AlphaGo时刻」与「ChatGPT时刻」 | ICRA 2026](https://www.leiphone.com/category/robot/DZhbEoMS7u3gvJIO.html)
+**发布时间**: 2026-06-05 18:22
+
+#### [华人学者闪耀维也纳，胡瑞珍、石冠亚、王晓龙等斩获ICRA核心大奖 | ICRA 2026](https://www.leiphone.com/category/robot/vXUDbgmmjD4EH4Ys.html)
+**发布时间**: 2026-06-05 18:12
+
+#### [波恩大学 Maren Bennewitz 教授：让机器人在遮挡世界中主动获取信息 | ICRA 2026](https://www.leiphone.com/category/ai/Y65BpmoLEhUaqnNS.html)
+**发布时间**: 2026-06-05 18:12
+
+#### [华人学者闪耀维也纳，胡瑞珍、石冠亚、王晓龙等斩获ICRA核心大奖 | ICRA 2026](https://www.leiphone.com/category/robot/ASmQYsOyWk796smb.html)
+**发布时间**: 2026-06-05 18:09
+
+#### [Pocket 4新品成618硬通货！400家大疆官方线下店入驻美团闪购](https://www.leiphone.com/category/industrynews/Ii10tVMY2qjNzfsZ.html)
+**发布时间**: 2026-06-05 18:08
+
+#### [阿里Meoo支持对话生成微信小程序，已打通小程序创建、审核、发布全链路](https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html)
+**发布时间**: 2026-06-05 18:03
+
+#### [618大促小米迎来开门红，摘得京东手机竞速榜国产冠军](https://www.leiphone.com/category/industrynews/UuldegmKFW9zsxhE.html)
+**发布时间**: 2026-06-05 17:26
+
+#### [腾讯文档行业首发「人机双写」，支持Word、PPT与数据图表](https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html)
+**发布时间**: 2026-06-05 16:01
+
+#### [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.leiphone.com/category/citydigital/I7sO2yPT7tpnmnZk.html)
+**发布时间**: 2026-06-05 15:11
+
+#### [中科闻歌发布 Decitron 决策机：跳出问答大模型，AI 迈入真实世界推演时代](https://www.leiphone.com/category/industrynews/JvMzCFCNVVx3dav9.html)
+**发布时间**: 2026-06-05 14:49
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The crucial human component in computing and AI](https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605)
+**发布时间**: 2026-06-05 16:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [有人靠CPU把AI算力密度卷到了新高度](https://www.qbitai.com/2026/06/431045.html)
+**发布时间**: 2026-06-05 13:16
+
+#### [智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制](https://www.qbitai.com/2026/06/431033.html)
+**发布时间**: 2026-06-05 10:53
+
+#### [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.qbitai.com/2026/06/431027.html)
+**发布时间**: 2026-06-05 10:46
+
+#### [国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态](https://www.qbitai.com/2026/06/430757.html)
+**发布时间**: 2026-06-05 09:40
+
+#### [WPS笔记正式发布：AI贯穿记录、整理与复用全过程](https://www.qbitai.com/2026/06/431014.html)
+**发布时间**: 2026-06-05 09:16
+
+#### [从超级个体到超级团队，腾讯云发布WorkBuddy企业版](https://www.qbitai.com/2026/06/430758.html)
+**发布时间**: 2026-06-05 08:55
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/)
+**发布时间**: 2026-06-05 11:26
 
 ---
 
