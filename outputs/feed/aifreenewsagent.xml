@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Jun 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2026 00:01:39 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:43:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,187 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thousand Token Wood: shipping a multi-agent economy on a 3B model</title>
-      <link>https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim</link>
-      <description>&lt;![CDATA[Thousand Token Wood: shipping a multi-agent economy on a 3B model]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 22:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim</guid>
+      <title>2026-06-06日刊</title>
+      <link>https://hex2077.dev/docs/2026-06/2026-06-06/</link>
+      <description>&lt;![CDATA[2026-06-06日刊]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-06/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>比亚迪重磅发布中国首款4nm制程智驾芯片 布局高等级自动驾驶</title>
-      <link>https://www.leiphone.com/category/transportation/7dY2VaaFzmB8aCxi.html</link>
-      <description>&lt;![CDATA[比亚迪重磅发布中国首款4nm制程智驾芯片 布局高等级自动驾驶]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/7dY2VaaFzmB8aCxi.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>他用WPS笔记，把AI报错变成了可复用的“避坑指南”</title>
-      <link>https://www.leiphone.com/category/industrynews/my3uIlmkVcHIKgu3.html</link>
-      <description>&lt;![CDATA[他用WPS笔记，把AI报错变成了可复用的“避坑指南”]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 20:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/my3uIlmkVcHIKgu3.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>NTU 曹子昂教授团队：破解 3D 标注成本难题，只需一张图片丨CVPR 2026</title>
-      <link>https://www.leiphone.com/category/ai/gOCTM6K2fNwaBttQ.html</link>
-      <description>&lt;![CDATA[NTU 曹子昂教授团队：破解 3D 标注成本难题，只需一张图片丨CVPR 2026]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/gOCTM6K2fNwaBttQ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从 INSPIRE 创想者大会看华为云：它正在 AI 时代给自己找一个更清晰的位置</title>
-      <link>https://www.leiphone.com/category/CorporateServices/93NsFoqxglrbXa26.html</link>
-      <description>&lt;![CDATA[从 INSPIRE 创想者大会看华为云：它正在 AI 时代给自己找一个更清晰的位置]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/93NsFoqxglrbXa26.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Coding 能力，正在颠覆大模型的估值逻辑</title>
-      <link>https://www.leiphone.com/category/industrynews/bwyozCVtFIOJynck.html</link>
-      <description>&lt;![CDATA[Coding 能力，正在颠覆大模型的估值逻辑]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bwyozCVtFIOJynck.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>CVPR 2026现场直击：CV与机器人的物理结界被彻底打破</title>
-      <link>https://www.leiphone.com/category/ai/SajB6MXFYXjJPEry.html</link>
-      <description>&lt;![CDATA[CVPR 2026现场直击：CV与机器人的物理结界被彻底打破]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/SajB6MXFYXjJPEry.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>银河通用创始人王鹤：具身智能正迈向专属的「AlphaGo时刻」与「ChatGPT时刻」 | ICRA 2026</title>
-      <link>https://www.leiphone.com/category/robot/DZhbEoMS7u3gvJIO.html</link>
-      <description>&lt;![CDATA[银河通用创始人王鹤：具身智能正迈向专属的「AlphaGo时刻」与「ChatGPT时刻」 | ICRA 2026]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/DZhbEoMS7u3gvJIO.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>华人学者闪耀维也纳，胡瑞珍、石冠亚、王晓龙等斩获ICRA核心大奖 | ICRA 2026</title>
-      <link>https://www.leiphone.com/category/robot/vXUDbgmmjD4EH4Ys.html</link>
-      <description>&lt;![CDATA[华人学者闪耀维也纳，胡瑞珍、石冠亚、王晓龙等斩获ICRA核心大奖 | ICRA 2026]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/vXUDbgmmjD4EH4Ys.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>波恩大学 Maren Bennewitz 教授：让机器人在遮挡世界中主动获取信息 | ICRA 2026</title>
-      <link>https://www.leiphone.com/category/ai/Y65BpmoLEhUaqnNS.html</link>
-      <description>&lt;![CDATA[波恩大学 Maren Bennewitz 教授：让机器人在遮挡世界中主动获取信息 | ICRA 2026]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Y65BpmoLEhUaqnNS.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Pocket 4新品成618硬通货！400家大疆官方线下店入驻美团闪购</title>
-      <link>https://www.leiphone.com/category/industrynews/Ii10tVMY2qjNzfsZ.html</link>
-      <description>&lt;![CDATA[Pocket 4新品成618硬通货！400家大疆官方线下店入驻美团闪购]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Ii10tVMY2qjNzfsZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里Meoo支持对话生成微信小程序，已打通小程序创建、审核、发布全链路</title>
-      <link>https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html</link>
-      <description>&lt;![CDATA[阿里Meoo支持对话生成微信小程序，已打通小程序创建、审核、发布全链路]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>618大促小米迎来开门红，摘得京东手机竞速榜国产冠军</title>
-      <link>https://www.leiphone.com/category/industrynews/UuldegmKFW9zsxhE.html</link>
-      <description>&lt;![CDATA[618大促小米迎来开门红，摘得京东手机竞速榜国产冠军]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UuldegmKFW9zsxhE.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>腾讯文档行业首发「人机双写」，支持Word、PPT与数据图表</title>
-      <link>https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html</link>
-      <description>&lt;![CDATA[腾讯文档行业首发「人机双写」，支持Word、PPT与数据图表]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”</title>
-      <link>https://www.leiphone.com/category/citydigital/I7sO2yPT7tpnmnZk.html</link>
-      <description>&lt;![CDATA[华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/citydigital/I7sO2yPT7tpnmnZk.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中科闻歌发布 Decitron 决策机：跳出问答大模型，AI 迈入真实世界推演时代</title>
-      <link>https://www.leiphone.com/category/industrynews/JvMzCFCNVVx3dav9.html</link>
-      <description>&lt;![CDATA[中科闻歌发布 Decitron 决策机：跳出问答大模型，AI 迈入真实世界推演时代]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/JvMzCFCNVVx3dav9.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>The crucial human component in computing and AI</title>
-      <link>https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605</link>
-      <description>&lt;![CDATA[The crucial human component in computing and AI]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>有人靠CPU把AI算力密度卷到了新高度</title>
-      <link>https://www.qbitai.com/2026/06/431045.html</link>
-      <description>&lt;![CDATA[有人靠CPU把AI算力密度卷到了新高度]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431045.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>智源&amp;清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制</title>
-      <link>https://www.qbitai.com/2026/06/431033.html</link>
-      <description>&lt;![CDATA[智源&amp;清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431033.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态</title>
-      <link>https://www.qbitai.com/2026/06/430757.html</link>
-      <description>&lt;![CDATA[国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/430757.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>WPS笔记正式发布：AI贯穿记录、整理与复用全过程</title>
-      <link>https://www.qbitai.com/2026/06/431014.html</link>
-      <description>&lt;![CDATA[WPS笔记正式发布：AI贯穿记录、整理与复用全过程]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431014.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从超级个体到超级团队，腾讯云发布WorkBuddy企业版</title>
-      <link>https://www.qbitai.com/2026/06/430758.html</link>
-      <description>&lt;![CDATA[从超级个体到超级团队，腾讯云发布WorkBuddy企业版]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/430758.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG</title>
-      <link>https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/</link>
-      <description>&lt;![CDATA[Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/</guid>
+      <title>港股鞋王千百度，一夜完成AI数据公司转型</title>
+      <link>https://www.qbitai.com/2026/06/431056.html</link>
+      <description>&lt;![CDATA[港股鞋王千百度，一夜完成AI数据公司转型]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 03:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431056.html</guid>
       <category>Ai</category>
     </item>
   </channel>
