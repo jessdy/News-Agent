@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-06 23:57
+**最后更新时间**: 2026-06-07 08:19
+
+---
+
+## 🆕 最新更新 (2026-06-07 08:19)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-07日刊](https://hex2077.dev/docs/2026-06/2026-06-07/)
+**发布时间**: 2026-06-07 10:45
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/)
+**发布时间**: 2026-06-07 07:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [教你用AI一节课收17万，华尔街精英排着队付费](https://www.qbitai.com/2026/06/431487.html)
+**发布时间**: 2026-06-07 03:10
+
+#### [5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队](https://www.qbitai.com/2026/06/431401.html)
+**发布时间**: 2026-06-07 01:13
 
 ---
 
