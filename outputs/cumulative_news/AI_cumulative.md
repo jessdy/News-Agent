@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-07 23:58
+**最后更新时间**: 2026-06-08 09:18
+
+---
+
+## 🆕 最新更新 (2026-06-08 09:18)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [智能戒指爆发前夜，RingConn走到哪一步了？](https://www.leiphone.com/category/weiwu/f6k18uKTJjmKBYwd.html)
+**发布时间**: 2026-06-08 14:26
+
+#### [独家丨华为天才少年王裕鑫创业，首月完成数千万级首轮融资](https://www.leiphone.com/category/yanxishe/SinorLMYmWes9Kqq.html)
+**发布时间**: 2026-06-08 12:10
+
+#### [“柔性按需+数字化升级”，希音为闽货出海按下“快进键”](https://www.leiphone.com/category/industrynews/xUv8I6FoA9P83vjh.html)
+**发布时间**: 2026-06-08 11:43
+
+#### [让机器人行动更有依据：复旦等提出 GuidedVLA，提升 VLA 可控可解释能力](https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html)
+**发布时间**: 2026-06-08 10:41
+
+#### [CVPR 2026 几何智能研究盘点：从看见形状，到理解运动与交互](https://www.leiphone.com/category/ai/DY9VohqHITkbu2i9.html)
+**发布时间**: 2026-06-08 10:33
+
+#### [CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观  PS-SR让视频超分不用在速度与质量间为难](https://www.leiphone.com/category/ai/zXTiqznDMhoIzvbh.html)
+**发布时间**: 2026-06-08 10:26
+
+#### [CVPR 开幕式：全场泪目缅怀孙剑，广工本科生靠「古董显卡」逆袭 | CVPR 2026](https://www.leiphone.com/category/ai/6Ftw05ZU0izgNdJT.html)
+**发布时间**: 2026-06-08 10:20
+
+#### [CVPR 2026现场直击：CV与机器人的物理结界被彻底打破](https://www.leiphone.com/category/ai/dD8WSfVt3bwq1sEe.html)
+**发布时间**: 2026-06-08 10:18
+
+#### [斯坦福Jeannette Bohg教授：抛弃“人手崇拜”，灵巧手要「解构物理」 | ICRA 2026](https://www.leiphone.com/category/robot/7bIdz0Vi001jq6lt.html)
+**发布时间**: 2026-06-08 10:11
+
+#### [普渡大学Aniket Bera教授：可靠自主机器人的“安全阀”，藏在“可检查接口”里 | ICRA 2026](https://www.leiphone.com/category/robot/msKJXBpOWYL23WVc.html)
+**发布时间**: 2026-06-08 10:08
+
+#### [3D 还是 2D？哥大李昀烛：通用机器人基础模型的解药在“中间地带”  | ICRA 2026](https://www.leiphone.com/category/robot/LPcnomdfvrGTm2cO.html)
+**发布时间**: 2026-06-08 10:05
+
+#### [集齐1000种方式，抖音精选创作者为高考生“放大招”](https://www.leiphone.com/category/industrynews/Jv4WkDnUENee7Lby.html)
+**发布时间**: 2026-06-08 10:05
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-08日刊](https://hex2077.dev/docs/2026-06/2026-06-08/)
+**发布时间**: 2026-06-08 11:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！](https://www.qbitai.com/2026/06/432425.html)
+**发布时间**: 2026-06-08 08:28
+
+#### [大模型看Coding，具身看Picking！原力灵机已抢先入局](https://www.qbitai.com/2026/06/432417.html)
+**发布时间**: 2026-06-08 06:30
+
+#### [马斯克SpaceX路演PPT：60页，值1.77万亿美元](https://www.qbitai.com/2026/06/432084.html)
+**发布时间**: 2026-06-08 05:02
+
+#### [让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机](https://www.qbitai.com/2026/06/432062.html)
+**发布时间**: 2026-06-08 04:36
+
+#### [高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会](https://www.qbitai.com/2026/06/432055.html)
+**发布时间**: 2026-06-08 03:17
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies](https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/)
+**发布时间**: 2026-06-08 06:00
+
+#### [NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)
+**发布时间**: 2026-06-08 03:00
 
 ---
 
