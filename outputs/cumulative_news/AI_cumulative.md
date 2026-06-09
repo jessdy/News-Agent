@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-08 09:18
+**最后更新时间**: 2026-06-08 23:57
+
+---
+
+## 🆕 最新更新 (2026-06-08 23:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [首发|美团接入微信AI生态，将提供本地生活等AI服务体验](https://www.leiphone.com/category/industrynews/2cdA62bqRxvASS8z.html)
+**发布时间**: 2026-06-08 21:44
+
+#### [重载具身，步履荒野：灵锶智能肖恺受邀ICRA 2026发表主题演讲，定义野外自主新高度](https://www.leiphone.com/category/industrynews/PHqfkUzjY2xaDmae.html)
+**发布时间**: 2026-06-08 21:06
+
+#### [可泛化高精准，NAVIAI 亮相 ATC 落地汽车全流程装配](https://www.leiphone.com/category/industrynews/q6pmfP8kpxIamcaw.html)
+**发布时间**: 2026-06-08 21:03
+
+#### [对腾讯来说，AI为什么是一场「长期游戏」？](https://www.leiphone.com/category/industrynews/e6NKPw4t7jJlxPpd.html)
+**发布时间**: 2026-06-08 18:47
+
+#### [独家丨瑞浦兰钧AIDC电芯年底量产，终端客户是阿里腾讯](https://www.leiphone.com/category/transportation/mOmmRp3HA5LMXY70.html)
+**发布时间**: 2026-06-08 18:07
+
+#### [阿里巴巴成立Token Foundry事业部](https://www.leiphone.com/category/industrynews/dwh5Z104IRXqJPY8.html)
+**发布时间**: 2026-06-08 17:57
+
+#### [从“工具箱”到“操盘手”：跨境电商AI的闭环突围](https://www.leiphone.com/category/industrynews/b0TuuC0QsZerbmzN.html)
+**发布时间**: 2026-06-08 17:38
+
+#### [SoulAgent 即将亮相北京智源大会，探索个人智能体在知识服务场景中的应用](https://www.leiphone.com/category/ai/DSC6lA4s08K9DMu1.html)
+**发布时间**: 2026-06-08 16:56
+
+#### [CVPR 2026完美落幕！D4RT封神最佳论文、牛津VGG两连冠，中国本科生泰坦显卡逆袭引爆全网](https://www.leiphone.com/category/ai/nVFDeZEAzBxQCiiP.html)
+**发布时间**: 2026-06-08 16:11
+
+#### [ICRA 2026上的灵巧手们，到底有多“卷”？](https://www.leiphone.com/category/robot/sSt61ymYYgw7OVO6.html)
+**发布时间**: 2026-06-08 15:36
+
+#### [ICRA 2026最佳论文奖，千寻智能首席科学家、清华高阳团队FP3入围](https://www.leiphone.com/category/robot/tTanpzX7mu3CDICJ.html)
+**发布时间**: 2026-06-08 15:28
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access](https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/)
+**发布时间**: 2026-06-08 16:40
+
+#### [It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-08 16:35
+
+#### [Better decisions at scale: How mathematical optimization delivers where intuition fails](https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/)
+**发布时间**: 2026-06-08 16:31
+
+#### [End-to-end encrypted ML inference with Amazon SageMaker AI and FHE](https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/)
+**发布时间**: 2026-06-08 16:14
+
+#### [Amazon Quick ARNs: Cross-account migration and namespace permissions](https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/)
+**发布时间**: 2026-06-08 16:07
+
+#### [Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required](https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/)
+**发布时间**: 2026-06-08 15:57
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营](https://www.qbitai.com/2026/06/432587.html)
+**发布时间**: 2026-06-08 10:40
+
+#### [高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成](https://www.qbitai.com/2026/06/432489.html)
+**发布时间**: 2026-06-08 09:00
+
+#### [AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动](https://www.qbitai.com/2026/06/432581.html)
+**发布时间**: 2026-06-08 08:09
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl)
+**发布时间**: 2026-06-08 00:00
 
 ---
 
