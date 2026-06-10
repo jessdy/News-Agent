@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-10 00:05
+**最后更新时间**: 2026-06-10 08:44
+
+---
+
+## 🆕 最新更新 (2026-06-10 08:44)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [装车量占比仅差0.08%！国轩与中创抢滩巨鲸电池平台，谁能吃到华为生态红利？丨大湾区车展观察](https://www.leiphone.com/category/transportation/LeEfS5fv7d8fou4k.html)
+**发布时间**: 2026-06-10 11:53
+
+#### [猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验](https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html)
+**发布时间**: 2026-06-10 11:12
+
+#### [美团AI浏览器正式上线，聚合多个大模型、强调Agent能力](https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html)
+**发布时间**: 2026-06-10 10:49
+
+#### [国际宇航科学院喊话：别擅自回复外星人！这是全人类的决定；董事长被曝电梯亲密视频！胜宏科技回应；TP-LINK全员转签遭近九成员工抵制](https://www.leiphone.com/category/zaobao/Zdoluye1L8P5aQJJ.html)
+**发布时间**: 2026-06-09 08:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施](https://www.qbitai.com/2026/06/433516.html)
+**发布时间**: 2026-06-10 06:51
+
+#### [GPT-5.6首批实测来了！精准狙击Mythos](https://www.qbitai.com/2026/06/433731.html)
+**发布时间**: 2026-06-10 06:45
+
+#### [Claude Fable 5首日实测，杀疯了…](https://www.qbitai.com/2026/06/433682.html)
+**发布时间**: 2026-06-10 05:54
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Startup’s nuclear-inspired cooling system could make data centers more sustainable](https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610)
+**发布时间**: 2026-06-10 00:00
 
 ---
 
