@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-09 08:26
+**最后更新时间**: 2026-06-10 00:05
+
+---
+
+## 🆕 最新更新 (2026-06-10 00:05)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，Claude Mythos 5发布！5000万行代码1天搞定](https://www.qbitai.com/2026/06/433590.html)
+**发布时间**: 2026-06-09 22:52
+
+#### [内蒙跑通AI逆袭新解法](https://www.qbitai.com/2026/06/433565.html)
+**发布时间**: 2026-06-09 13:40
+
+#### [理想智驾一号位创业，落户北京亦庄了](https://www.qbitai.com/2026/06/433560.html)
+**发布时间**: 2026-06-09 13:20
+
+#### [你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司](https://www.qbitai.com/2026/06/433517.html)
+**发布时间**: 2026-06-09 09:12
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute](https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/)
+**发布时间**: 2026-06-09 22:34
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-06-09 20:07
+
+#### [Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake](https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/)
+**发布时间**: 2026-06-09 16:43
+
+#### [Build an agentic incident triage assistant with Amazon Quick and New Relic](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/)
+**发布时间**: 2026-06-09 16:10
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching)
+**发布时间**: 2026-06-09 19:38
+
+#### [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code)
+**发布时间**: 2026-06-09 15:56
+
+#### [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md)
+**发布时间**: 2026-06-09 10:46
+
+#### [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs)
+**发布时间**: 2026-06-09 00:00
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [美团发布AI浏览器Tabbit 1.0，可自动执行各类任务](https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html)
+**发布时间**: 2026-06-09 16:48
+
+#### [从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026](https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html)
+**发布时间**: 2026-06-09 15:49
+
+#### [滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转](https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html)
+**发布时间**: 2026-06-09 15:09
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The consequences of relying on AI for accurate news](https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609)
+**发布时间**: 2026-06-09 16:30
 
 ---
 
