@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-10 08:44
+**最后更新时间**: 2026-06-11 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-11 00:09)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析](https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html)
+**发布时间**: 2026-06-10 23:43
+
+#### [离谱！哈啰单车员工曾计划殴打竞品核心人员，公司回应；员工「迟开电脑8分钟」被开除，法院判了；丰巢取件得先看广告，客服称暂无法关闭](https://www.leiphone.com/category/zaobao/920O0mJxY30OIE6r.html)
+**发布时间**: 2026-06-10 18:47
+
+#### [火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式](https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html)
+**发布时间**: 2026-06-10 16:35
+
+#### [拼多多新公司落户雄安，首期注资5亿元，助力新区数字经济高质量发展](https://www.leiphone.com/category/industrynews/AWvAXSEa82EddeOm.html)
+**发布时间**: 2026-06-10 16:27
+
+#### [千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询](https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html)
+**发布时间**: 2026-06-10 15:35
+
+#### [重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态](https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html)
+**发布时间**: 2026-06-10 14:56
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [For Robotaxis, Safety Must Be Built In, Not Bolted On](https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/)
+**发布时间**: 2026-06-10 19:00
+
+#### [NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/)
+**发布时间**: 2026-06-10 16:15
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [New framework for auditing machine unlearning](https://research.google/blog/new-framework-for-auditing-machine-unlearning/)
+**发布时间**: 2026-06-10 17:34
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations](https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/)
+**发布时间**: 2026-06-10 15:26
+
+#### [Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-10 15:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达](https://www.qbitai.com/2026/06/434196.html)
+**发布时间**: 2026-06-10 11:52
+
+#### [东风联手九识，商用无人车也有“HI模式”了](https://www.qbitai.com/2026/06/433956.html)
+**发布时间**: 2026-06-10 11:38
+
+#### [抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…](https://www.qbitai.com/2026/06/433832.html)
+**发布时间**: 2026-06-10 10:25
+
+#### [英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式](https://www.qbitai.com/2026/06/433798.html)
+**发布时间**: 2026-06-10 07:27
 
 ---
 
