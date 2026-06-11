@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-11 00:09
+**最后更新时间**: 2026-06-11 09:08
+
+---
+
+## 🆕 最新更新 (2026-06-11 09:08)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [在红海中重做云台相机，影石看到了什么？](https://www.leiphone.com/category/weiwu/EcsjjzrPGtEFdgBn.html)
+**发布时间**: 2026-06-11 15:04
+
+#### [淘宝闪购升级“新店成长体系”，扶持中小商家数字化起步](https://www.leiphone.com/category/industrynews/n8n8vHFMOvFkDKWw.html)
+**发布时间**: 2026-06-11 12:01
+
+#### [CVPR 2026终极盘点：这5篇论文、1个演讲、3个展台，藏着计算机视觉下一个十年的答案](https://www.leiphone.com/category/ai/dvz76xNimms03Mgz.html)
+**发布时间**: 2026-06-11 11:49
+
+#### [拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技](https://www.leiphone.com/category/industrynews/U8aJ9qfqvhNAFoJ2.html)
+**发布时间**: 2026-06-11 10:16
+
+#### [钉钉换帅 92年技术极客陈宇森接任钉钉CEO](https://www.leiphone.com/category/industrynews/EA4A0xaQ1pM3TeQM.html)
+**发布时间**: 2026-06-11 10:08
+
+#### [阿里合伙人委员会内网发帖：钉钉管理“不是阿里文化该有的样子"](https://www.leiphone.com/category/industrynews/VrBrQcuB585dkhXq.html)
+**发布时间**: 2026-06-11 10:07
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [1290万高考生看过来！阿里出了个志愿填报Agent，免费的](https://www.qbitai.com/2026/06/434558.html)
+**发布时间**: 2026-06-11 07:25
+
+#### [3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent](https://www.qbitai.com/2026/06/434317.html)
+**发布时间**: 2026-06-11 04:18
+
+#### [Mythos阴影里谷歌悄悄发模型，速度暴涨4倍](https://www.qbitai.com/2026/06/434316.html)
+**发布时间**: 2026-06-11 04:17
+
+#### [Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱](https://www.qbitai.com/2026/06/434326.html)
+**发布时间**: 2026-06-11 04:16
+
+#### [AI短剧工具赛道，年度最大单笔融资来了](https://www.qbitai.com/2026/06/434298.html)
+**发布时间**: 2026-06-11 04:07
+
+#### [谷歌I/O最出圈的一幕，发生在抖音？？？](https://www.qbitai.com/2026/06/434267.html)
+**发布时间**: 2026-06-11 02:46
+
+#### [行业首创AI志愿填报+真人专家验真，百度全新升级高考服务](https://www.qbitai.com/2026/06/434268.html)
+**发布时间**: 2026-06-11 02:08
+
+#### [实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付](https://www.qbitai.com/2026/06/434225.html)
+**发布时间**: 2026-06-11 01:18
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How frontier teams are reinventing AI-native development](https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/)
+**发布时间**: 2026-06-11 00:54
 
 ---
 
