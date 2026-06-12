@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-12 00:15
+**最后更新时间**: 2026-06-12 08:54
+
+---
+
+## 🆕 最新更新 (2026-06-12 08:54)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [中科大&智象未来：强模型打底、轻模型精修，重塑视频超分体验丨CVPR 2026](https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html)
+**发布时间**: 2026-06-12 14:28
+
+#### [Nature 子刊收录！清华李勇团队用 AI 解码全球气候耦合，ENSO 预测提前期延长至 19 个月](https://www.leiphone.com/category/ai/Sgux2ZbLaFbXaZxD.html)
+**发布时间**: 2026-06-12 14:26
+
+#### [CVPR 2026 模型适应性研究盘点：从保留旧知识，到适应真实世界](https://www.leiphone.com/category/ai/9x05Sw5uY0RhgEdO.html)
+**发布时间**: 2026-06-12 14:25
+
+#### [生成预测四大权威榜单第一！开悟世界模型确立具身智能世界模型新标杆](https://www.leiphone.com/category/ai/G88m8g2T61aivI2F.html)
+**发布时间**: 2026-06-12 13:27
+
+#### [6月15日上会！燧原科技营收三年高增，盈利拐点渐近](https://www.leiphone.com/category/chips/zhn0h84fE91cixNf.html)
+**发布时间**: 2026-06-12 12:01
+
+#### [什么样的机器人，是我们所期待的？](https://www.leiphone.com/category/industrynews/CE76ykduYdOStDkC.html)
+**发布时间**: 2026-06-12 10:22
+
+#### [让AI回归工具：萤石开放平台2.0如何用「双平台」破解IoT落地难题？](https://www.leiphone.com/category/smarthome/Ib0fWcObeTWu3DGM.html)
+**发布时间**: 2026-06-12 10:06
+
+#### [微软中国Azure研发团队遭「一锅端」：超200人受影响，最高补偿N+7；无招卸任钉钉CEO，92年技术极客陈宇森接任；李书福卸任极氪董事长](https://www.leiphone.com/category/zaobao/K9MpJZRxh6jNKi8k.html)
+**发布时间**: 2026-06-12 08:25
+
+#### [RoboParty 萝博派对创始人黄一荣登福布斯亚洲 U30 精英榜单](https://www.leiphone.com/category/industrynews/rOQfGakXOc7Oa8HU.html)
+**发布时间**: 2026-06-11 18:55
+
+#### [销售岗最安全！Meta裁员8000人，开发岗、管理岗成AI转型最大牺牲品；梁文锋高考状元旧照曝光：不去清华去浙大；微信官宣：朋友圈搜索功能](https://www.leiphone.com/category/zaobao/Cn7hBYyhcWoe0k8e.html)
+**发布时间**: 2026-06-11 08:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [耐心资本护航创新，2026SuperLink开启创投价值共生新时代](https://www.qbitai.com/2026/06/435192.html)
+**发布时间**: 2026-06-12 07:31
+
+#### [Anthropic老大的唯一 -1，就是AI股神的未婚妻](https://www.qbitai.com/2026/06/433717.html)
+**发布时间**: 2026-06-12 07:29
+
+#### [2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！](https://www.qbitai.com/2026/06/435105.html)
+**发布时间**: 2026-06-12 07:27
+
+#### [“智能体最后的考试”，Fable 5竟然不敌GPT 5.5](https://www.qbitai.com/2026/06/434774.html)
+**发布时间**: 2026-06-12 04:13
+
+#### [BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道](https://www.qbitai.com/2026/06/434761.html)
+**发布时间**: 2026-06-12 04:11
+
+#### [SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](https://www.qbitai.com/2026/06/434733.html)
+**发布时间**: 2026-06-12 00:26
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Automate model quota request and operational issue triage on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/)
+**发布时间**: 2026-06-03 20:14
 
 ---
 
