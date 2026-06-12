@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-11 09:08
+**最后更新时间**: 2026-06-12 00:15
+
+---
+
+## 🆕 最新更新 (2026-06-12 00:15)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [赛力斯：6月11日斥资6000万元回购88.52万股](https://www.leiphone.com/category/industrynews/6evEMDbZ2t7lHKvD.html)
+**发布时间**: 2026-06-11 22:02
+
+#### [千问上线足球预测 AI 助手，大模型预测能否战胜人类？](https://www.leiphone.com/category/industrynews/rlbyFXSP1xl2Mrvo.html)
+**发布时间**: 2026-06-11 17:42
+
+#### [独家丨前九号机器人负责人孙春阳创业，布局AI家庭影像赛道](https://www.leiphone.com/category/weiwu/fBvk2VTXEKZHfa4X.html)
+**发布时间**: 2026-06-11 15:08
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Extract Data with On-demand and Batch Pipelines Dynamically](https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/)
+**发布时间**: 2026-06-11 19:40
+
+#### [Evaluate AI agents systematically with Agent-EvalKit](https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/)
+**发布时间**: 2026-06-11 15:49
+
+#### [Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/)
+**发布时间**: 2026-06-11 15:36
+
+#### [Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/)
+**发布时间**: 2026-06-11 15:11
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Jinhua Zhao named head of the Department of Urban Studies and Planning](https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611)
+**发布时间**: 2026-06-11 16:20
+
+#### [When it comes to predicting people’s preferences, it pays to consider “the power of three”](https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611)
+**发布时间**: 2026-06-11 15:10
+
+#### [MIT affiliates win 2026 Hertz Foundation Fellowships](https://news.mit.edu/2026/hertz-foundation-fellowships-0611)
+**发布时间**: 2026-06-11 13:30
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings](https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/)
+**发布时间**: 2026-06-11 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜](https://www.qbitai.com/2026/06/434571.html)
+**发布时间**: 2026-06-11 08:23
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion)
+**发布时间**: 2026-06-11 00:00
 
 ---
 
