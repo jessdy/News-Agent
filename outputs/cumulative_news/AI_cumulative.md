@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-12 08:54
+**最后更新时间**: 2026-06-13 00:13
+
+---
+
+## 🆕 最新更新 (2026-06-13 00:13)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark](https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/)
+**发布时间**: 2026-06-12 21:00
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [HDC 2026：HarmonyOS 6终端设备数突破6600万，鸿蒙生态驶入高速增长快车道](https://www.leiphone.com/category/industrynews/j9yj1yXi4UpIZhIT.html)
+**发布时间**: 2026-06-12 20:56
+
+#### [美的泰国灯塔工厂启示录：如何将中国供应链的“根系”植入全球土壤？](https://www.leiphone.com/category/smarthome/gVhSX45M5wgkjPTa.html)
+**发布时间**: 2026-06-12 20:05
+
+#### [米家空调「冷媒动态调节」等4项技术获评「国际领先」](https://www.leiphone.com/category/industrynews/4RYQVSt0k4tgaUGg.html)
+**发布时间**: 2026-06-12 19:44
+
+#### [万台量产之后，机器人企业比拼什么？](https://www.leiphone.com/category/industrynews/q05jAEnENMMJiEH0.html)
+**发布时间**: 2026-06-12 17:17
+
+#### [腾讯云护航全球16个国家及地区世界杯直播，AI技术首次在世界杯大规模应用](https://www.leiphone.com/category/industrynews/EtblIFPRNIfRPFFO.html)
+**发布时间**: 2026-06-12 16:53
+
+#### [大疆起诉影石，指控其Luna相机侵犯多项核心专利](https://www.leiphone.com/category/industrynews/0E1x4k13oxtgKl0K.html)
+**发布时间**: 2026-06-12 16:23
+
+#### [中科院物理研究所黄学杰 ：全固态电池掀桌子前，必须做好固液混合电池丨大湾区车展观察](https://www.leiphone.com/category/transportation/xRrGlFlEHbWMo9SL.html)
+**发布时间**: 2026-06-12 15:11
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building Supercharger: How Rocket Close optimized title operations with agentic AI](https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/)
+**发布时间**: 2026-06-12 20:43
+
+#### [Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers](https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/)
+**发布时间**: 2026-06-12 14:49
+
+#### [From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services](https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/)
+**发布时间**: 2026-06-12 14:43
+
+#### [Built from the inside out: How AWS Professional Services became a frontier team first](https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/)
+**发布时间**: 2026-06-12 13:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Research into how AI can help users understand skin conditions](https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/)
+**发布时间**: 2026-06-12 17:52
+
+#### [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+**发布时间**: 2026-06-12 17:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [神了，世界杯第一天真按千问剧本踢了](https://www.qbitai.com/2026/06/435321.html)
+**发布时间**: 2026-06-12 16:45
+
+#### [千里收购了一家毫米波雷达公司](https://www.qbitai.com/2026/06/435196.html)
+**发布时间**: 2026-06-12 09:13
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval)
+**发布时间**: 2026-06-12 15:56
 
 ---
 
