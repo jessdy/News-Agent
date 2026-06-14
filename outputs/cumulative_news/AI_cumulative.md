@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-13 08:17
+**最后更新时间**: 2026-06-13 23:58
+
+---
+
+## 🆕 最新更新 (2026-06-13 23:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [湖州超级五电工厂落地，零跑奔赴百万销量制造突围](https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html)
+**发布时间**: 2026-06-13 17:28
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？](https://www.qbitai.com/2026/06/435483.html)
+**发布时间**: 2026-06-13 12:40
+
+#### [Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践](https://www.qbitai.com/2026/06/435455.html)
+**发布时间**: 2026-06-13 08:11
 
 ---
 
