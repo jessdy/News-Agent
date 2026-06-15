@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-13 23:58
+**最后更新时间**: 2026-06-15 10:51
+
+---
+
+## 🆕 最新更新 (2026-06-15 10:51)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从最优传输角度训练奖励模型：让 RLHF 学会「忽略错误偏好」丨ICML 2026](https://www.leiphone.com/category/robot/wRfEczgo0HmrXNVa.html)
+**发布时间**: 2026-06-15 15:39
+
+#### [进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？](https://www.leiphone.com/category/industrynews/sqyIHwGyFzai5Tcj.html)
+**发布时间**: 2026-06-15 14:27
+
+#### [魔法原子上交会首秀VLA K02大模型，完成具身智能从“执行”到“理解”的能力跃迁](https://www.leiphone.com/category/industrynews/id1HKgC0ahWZduWb.html)
+**发布时间**: 2026-06-15 13:37
+
+#### [世航智能完成超 10 亿元 A 轮融资，创全球海洋机器人单轮融资纪录](https://www.leiphone.com/category/robot/FufjKCluRRyP0ye4.html)
+**发布时间**: 2026-06-15 12:32
+
+#### [健康AI阿福测试“医生把关”新功能：打开“AI+医生”协作想象空间](https://www.leiphone.com/category/industrynews/d1EqrpsXBW4c1JjR.html)
+**发布时间**: 2026-06-15 10:16
+
+#### [首发丨家庭柔性机器人公司「SoulX」获高瓴投资，首款「拥抱机器人」年内上市](https://www.leiphone.com/category/weiwu/NmG4PGKLNQreYKmk.html)
+**发布时间**: 2026-06-15 10:05
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚](https://www.qbitai.com/2026/06/435841.html)
+**发布时间**: 2026-06-15 09:37
+
+#### [宇树机器人要登珠峰了！](https://www.qbitai.com/2026/06/435817.html)
+**发布时间**: 2026-06-15 09:17
+
+#### [89年哈工程校友，拿下全球海洋机器人领域最大单轮融资](https://www.qbitai.com/2026/06/435804.html)
+**发布时间**: 2026-06-15 06:54
+
+#### [4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型](https://www.qbitai.com/2026/06/435802.html)
+**发布时间**: 2026-06-15 06:52
+
+#### [刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线](https://www.qbitai.com/2026/06/435574.html)
+**发布时间**: 2026-06-15 06:08
+
+#### [低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超](https://www.qbitai.com/2026/06/435558.html)
+**发布时间**: 2026-06-15 05:43
+
+#### [Agent时代，华为云开始重新造地基了](https://www.qbitai.com/2026/06/435531.html)
+**发布时间**: 2026-06-15 03:40
+
+#### [智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破](https://www.qbitai.com/2026/06/435520.html)
+**发布时间**: 2026-06-15 03:24
 
 ---
 
