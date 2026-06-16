@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-16 00:23
+**最后更新时间**: 2026-06-16 10:02
+
+---
+
+## 🆕 最新更新 (2026-06-16 10:02)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [犀牛鸟前沿 | 犀牛鸟精英人才 ICML 2026 入选论文解读](https://www.leiphone.com/category/private/LoF1cZT5Q848Zliu.html)
+**发布时间**: 2026-06-16 15:43
+
+#### [港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收](https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html)
+**发布时间**: 2026-06-16 15:25
+
+#### [深圳市大数据研究院4项科研成果被ICML 2026录用](https://www.leiphone.com/category/private/haovJSw5s9MS2aUM.html)
+**发布时间**: 2026-06-16 15:08
+
+#### [ICML 2026 | 电子科大：树状自我博弈 TSP，面向安全代码大模型的细粒度自纠错框架](https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html)
+**发布时间**: 2026-06-16 14:44
+
+#### [外骨骼机器人爆火，海尔为何瞄准3亿老年人市场？](https://www.leiphone.com/category/weiwu/vFMxYwSaDXdPurDk.html)
+**发布时间**: 2026-06-16 14:43
+
+#### [ICML 2026：从输入输出样例中自动生成程序——强化学习为大模型Programming-By-Example任务提供推理过程监督](https://www.leiphone.com/category/private/z1LrlGd5bucicch2.html)
+**发布时间**: 2026-06-16 13:47
+
+#### [滴滴多篇论文入选 ICML2026，值得一读！](https://www.leiphone.com/category/private/SCJQ78irO2yRjbEz.html)
+**发布时间**: 2026-06-16 11:07
+
+#### [ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解](https://www.leiphone.com/category/private/6M1mEqgs9TxaZJaO.html)
+**发布时间**: 2026-06-16 10:48
+
+#### [不到40元，深圳公司把大模型塞进毛绒玩具](https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html)
+**发布时间**: 2026-06-16 10:40
+
+#### [马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头](https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html)
+**发布时间**: 2026-06-16 10:29
+
+#### [独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」](https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html)
+**发布时间**: 2026-06-16 10:27
+
+#### [国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了](https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html)
+**发布时间**: 2026-06-16 10:24
+
+#### [江湖已变，旧梦未改，吴甘沙的自动驾驶十年](https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html)
+**发布时间**: 2026-06-16 10:07
+
+#### [手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场](https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html)
+**发布时间**: 2026-06-16 08:42
+
+#### [对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026](https://www.leiphone.com/category/private/04blpoyMgJFliCK9.html)
+**发布时间**: 2026-06-15 21:44
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-16日刊](https://hex2077.dev/docs/2026-06/2026-06-16/)
+**发布时间**: 2026-06-16 10:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊](https://www.qbitai.com/2026/06/435931.html)
+**发布时间**: 2026-06-16 09:31
+
+#### [SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员](https://www.qbitai.com/2026/06/435882.html)
+**发布时间**: 2026-06-16 06:40
+
+#### [三连发！阿里发布首个具身大模型Qwen-Robot系列](https://www.qbitai.com/2026/06/435873.html)
+**发布时间**: 2026-06-16 04:39
+
+#### [从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”](https://www.qbitai.com/2026/06/435859.html)
+**发布时间**: 2026-06-16 04:10
+
+#### [沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台](https://www.qbitai.com/2026/06/435853.html)
+**发布时间**: 2026-06-16 02:47
+
+#### [上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界](https://www.qbitai.com/2026/06/435861.html)
+**发布时间**: 2026-06-16 01:32
 
 ---
 
