@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-15 10:51
+**最后更新时间**: 2026-06-16 00:23
+
+---
+
+## 🆕 最新更新 (2026-06-16 00:23)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [对话它石智航丁文超：具身智能，如何迈进「2.0时代」？| ICRA 2026](https://www.leiphone.com/category/robot/CphF1Mc5RZX5xaWN.html)
+**发布时间**: 2026-06-15 21:47
+
+#### [对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026](https://www.leiphone.com/category/robot/04blpoyMgJFliCK9.html)
+**发布时间**: 2026-06-15 21:44
+
+#### [腾讯AI下半场，智能体加速场景落地](https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html)
+**发布时间**: 2026-06-15 19:32
+
+#### [蔚来ES9正式上市，定位科技行政旗舰SUV](https://www.leiphone.com/category/transportation/KSYxJzfPdVeIgGXz.html)
+**发布时间**: 2026-06-15 17:37
+
+#### [全球 AI “黑马神话”一夜反转，被指套壳阿里千问](https://www.leiphone.com/category/industrynews/cjoeciL965DpPQsY.html)
+**发布时间**: 2026-06-15 17:35
+
+#### [新品首发，全系亮相，蔚来公司三品牌同台登陆大湾区车展](https://www.leiphone.com/category/transportation/6913YbNMsks70CQo.html)
+**发布时间**: 2026-06-15 17:30
+
+#### [97毫秒！百度 PP-OCRv6 把 OCR 带进毫秒时代](https://www.leiphone.com/category/industrynews/ZgPImCFdSTkpxCSn.html)
+**发布时间**: 2026-06-15 16:51
+
+#### [网件反咬TP-Link：「美国公司」是骗局，本质仍是中国企业；乌克兰使用AI无人机自主猎杀俄士兵；山姆客服回应极速达买到临期商品](https://www.leiphone.com/category/zaobao/z1REYcEDmooLjV3S.html)
+**发布时间**: 2026-06-15 08:27
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Gemma 4 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/)
+**发布时间**: 2026-06-15 20:24
+
+#### [AI Agent Failure Detection and Root Cause Analysis with Strands Evals](https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/)
+**发布时间**: 2026-06-15 18:07
+
+#### [Build context-rich research agents with Deep Agents and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/)
+**发布时间**: 2026-06-15 13:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [校企共推AI4S 上海交通大学与太初元碁签署合作协议](https://www.qbitai.com/2026/06/435848.html)
+**发布时间**: 2026-06-15 12:57
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-15日刊](https://hex2077.dev/docs/2026-06/2026-06-15/)
+**发布时间**: 2026-06-15 10:53
+
+#### [2026-06-14日刊](https://hex2077.dev/docs/2026-06/2026-06-14/)
+**发布时间**: 2026-06-14 10:48
+
+#### [2026-06-13日刊](https://hex2077.dev/docs/2026-06/2026-06-13/)
+**发布时间**: 2026-06-13 10:51
+
+#### [2026-06-12日刊](https://hex2077.dev/docs/2026-06/2026-06-12/)
+**发布时间**: 2026-06-12 10:43
+
+#### [2026-06-11日刊](https://hex2077.dev/docs/2026-06/2026-06-11/)
+**发布时间**: 2026-06-11 10:55
+
+#### [2026-06-10日刊](https://hex2077.dev/docs/2026-06/2026-06-10/)
+**发布时间**: 2026-06-10 10:39
 
 ---
 
