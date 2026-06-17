@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-17 00:09
+**最后更新时间**: 2026-06-17 09:26
+
+---
+
+## 🆕 最新更新 (2026-06-17 09:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里云扩建全球基础设施，新增法国巴黎、马来西亚柔佛地域](https://www.leiphone.com/category/industrynews/65PN2PmZCC0YKFaS.html)
+**发布时间**: 2026-06-17 15:20
+
+#### [分子之心获逾亿美元融资，多方资本押注AI生物“产业新基建”](https://www.leiphone.com/category/aihealth/NUPeBXShajKt90nJ.html)
+**发布时间**: 2026-06-17 14:55
+
+#### [OpenAI 被传要终止 IPO？](https://www.leiphone.com/category/ai/OOjkRGQUyVp9mtQ4.html)
+**发布时间**: 2026-06-17 14:34
+
+#### [刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式](https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html)
+**发布时间**: 2026-06-17 14:30
+
+#### [全国首个！广东政务智能中枢湾擎上线，集成WorkBuddy打造政务办公新标配](https://www.leiphone.com/category/industrynews/fpHs0biXwPGOEBmK.html)
+**发布时间**: 2026-06-17 14:18
+
+#### [天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团](https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html)
+**发布时间**: 2026-06-17 12:18
+
+#### [探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进](https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html)
+**发布时间**: 2026-06-17 10:42
+
+#### [滴滴拥抱AI浪潮的另一种方式](https://www.leiphone.com/category/industrynews/umP6ru0LAh9dtK6U.html)
+**发布时间**: 2026-06-17 10:36
+
+#### [DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现](https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html)
+**发布时间**: 2026-06-17 08:28
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-17日刊](https://hex2077.dev/docs/2026-06/2026-06-17/)
+**发布时间**: 2026-06-17 11:06
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog)
+**发布时间**: 2026-06-17 09:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [困住医疗AI的死循环，终于有国产玩家跑通了](https://www.qbitai.com/2026/06/436171.html)
+**发布时间**: 2026-06-17 08:13
+
+#### [微信支付发布AI专属卡 WorkBuddy率先接入](https://www.qbitai.com/2026/06/436160.html)
+**发布时间**: 2026-06-17 06:56
+
+#### [头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投](https://www.qbitai.com/2026/06/436148.html)
+**发布时间**: 2026-06-17 06:22
+
+#### [林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了](https://www.qbitai.com/2026/06/436138.html)
+**发布时间**: 2026-06-17 06:17
+
+#### [Grok 4.3现已在Amazon Bedrock上正式可用](https://www.qbitai.com/2026/06/436134.html)
+**发布时间**: 2026-06-17 05:59
+
+#### [六连冠！文远知行再度刷新中国智驾大赛连胜纪录](https://www.qbitai.com/2026/06/436130.html)
+**发布时间**: 2026-06-17 04:35
+
+#### [天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团](https://www.qbitai.com/2026/06/436110.html)
+**发布时间**: 2026-06-17 04:32
+
+#### [刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！](https://www.qbitai.com/2026/06/436085.html)
+**发布时间**: 2026-06-17 02:42
+
+#### [英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连](https://www.qbitai.com/2026/06/436082.html)
+**发布时间**: 2026-06-17 02:29
+
+#### [许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建](https://www.qbitai.com/2026/06/436077.html)
+**发布时间**: 2026-06-17 02:23
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Could AI tell you where you left your keys?](https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617)
+**发布时间**: 2026-06-17 00:00
 
 ---
 
