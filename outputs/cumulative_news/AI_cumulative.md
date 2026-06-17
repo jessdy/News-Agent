@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-16 10:02
+**最后更新时间**: 2026-06-17 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-17 00:09)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API](https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/)
+**发布时间**: 2026-06-16 22:46
+
+#### [Introducing container caching in Amazon SageMaker AI for faster model scaling](https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/)
+**发布时间**: 2026-06-16 20:16
+
+#### [Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-06-16 17:47
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses](https://blogs.nvidia.com/blog/nvidia-xr-ai/)
+**发布时间**: 2026-06-16 22:30
+
+#### [Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone](https://blogs.nvidia.com/blog/coherent-texas-ai-optical/)
+**发布时间**: 2026-06-16 22:10
+
+#### [HPE AI Factory With NVIDIA Expands for the Era of Agents](https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/)
+**发布时间**: 2026-06-16 16:30
+
+#### [Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0](https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/)
+**发布时间**: 2026-06-16 15:00
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026博世互联世界大会（BCW）:  传感器到系统解决方案，博世持续推进自动化与机器人技术创新](https://www.leiphone.com/category/industrynews/lyFKlXW7XiM2y35v.html)
+**发布时间**: 2026-06-16 19:32
+
+#### [超百万现金激励，TRAE AI创造力大赛正式启动](https://www.leiphone.com/category/industrynews/8apNrrdq14vz5adL.html)
+**发布时间**: 2026-06-16 18:22
+
+#### [六连冠！文远知行再度刷新中国智驾大赛连胜纪录](https://www.leiphone.com/category/industrynews/OGB505tOpxc2313T.html)
+**发布时间**: 2026-06-16 16:41
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From pixels to planning: Earth AI for nature restoration](https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/)
+**发布时间**: 2026-06-16 17:30
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT’s Initiative for New Manufacturing builds momentum](https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616)
+**发布时间**: 2026-06-16 16:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一个模型控制手脚腰身！机器人终于学会全身协同干精细活了](https://www.qbitai.com/2026/06/436073.html)
+**发布时间**: 2026-06-16 13:23
+
+#### [和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！](https://www.qbitai.com/2026/06/435953.html)
+**发布时间**: 2026-06-16 13:02
+
+#### [网易有道首席科学家段亦涛：让AI技术扎根业务场景](https://www.qbitai.com/2026/06/435950.html)
+**发布时间**: 2026-06-16 10:36
 
 ---
 
