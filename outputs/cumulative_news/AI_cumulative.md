@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-18 00:07
+**最后更新时间**: 2026-06-18 09:09
+
+---
+
+## 🆕 最新更新 (2026-06-18 09:09)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [湖畔对谈2026：华为无障碍的“八年长征”](https://www.leiphone.com/category/weiwu/NFK0G1BOOsm9Pw3M.html)
+**发布时间**: 2026-06-18 14:56
+
+#### [钛动科技战略投资布局加速：以全球渠道与数据能力赋能创新企业](https://www.leiphone.com/category/industrynews/0rp35cG1uA9fwKCY.html)
+**发布时间**: 2026-06-18 13:49
+
+#### [星闪开源，能否打通万物互联的“最后一米”？](https://www.leiphone.com/category/industrynews/v2aKtENZMX1cVTfl.html)
+**发布时间**: 2026-06-18 12:18
+
+#### [AI定义汽车，赛豆科技发布AI汽车品牌AIVA](https://www.leiphone.com/category/transportation/fztg9VvKwu7TX3mD.html)
+**发布时间**: 2026-06-18 11:56
+
+#### [独家丨无招上次「被卸任」钉钉CEO前夜](https://www.leiphone.com/category/CorporateServices/p4O6pVPn2lB0mlrS.html)
+**发布时间**: 2026-06-18 11:54
+
+#### [远景在欧洲科技峰会宣布Mission Gobi计划，用AI电力系统让全球戈壁成为下一代智能文明摇篮](https://www.leiphone.com/category/industrynews/frLOH33sNcBUMfsf.html)
+**发布时间**: 2026-06-18 11:45
+
+#### [6家车圈大佬的共识：整车智能，不是座舱、智驾、底盘的“拼盘式”创新](https://www.leiphone.com/category/transportation/6w8DWxLew4cLycEE.html)
+**发布时间**: 2026-06-18 09:55
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-18日刊](https://hex2077.dev/docs/2026-06/2026-06-18/)
+**发布时间**: 2026-06-18 11:40
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [France Advances Europe’s AI Future With NVIDIA Technologies](https://blogs.nvidia.com/blog/france-advances-europes-ai-future/)
+**发布时间**: 2026-06-18 06:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅](https://www.qbitai.com/2026/06/436477.html)
+**发布时间**: 2026-06-18 05:12
+
+#### [国产算力正在进入Token标准化时代](https://www.qbitai.com/2026/06/436468.html)
+**发布时间**: 2026-06-18 01:45
 
 ---
 
