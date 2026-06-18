@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-17 09:26
+**最后更新时间**: 2026-06-18 00:07
+
+---
+
+## 🆕 最新更新 (2026-06-18 00:07)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Amazon SageMaker AI Async Inference now supports inline request payloads](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/)
+**发布时间**: 2026-06-17 20:56
+
+#### [Get back hours every day with autonomous agents in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/)
+**发布时间**: 2026-06-17 20:35
+
+#### [Context intelligence for your data and AI agents at scale](https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/)
+**发布时间**: 2026-06-17 17:17
+
+#### [New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/)
+**发布时间**: 2026-06-17 15:29
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [九章云极发布“AI工厂”战略  定义智能规模化新基建](https://www.leiphone.com/category/industrynews/zbQdehRHS9NgQjAv.html)
+**发布时间**: 2026-06-17 18:33
+
+#### [给 AI 建「流水线」，九章云极看清了什么？](https://www.leiphone.com/category/chips/Z9LFtadgTOmhxmcV.html)
+**发布时间**: 2026-06-17 18:32
+
+#### [理想汽车举办Livis Day软件与具身智能发布会](https://www.leiphone.com/category/transportation/iKKAYzqzrW0294JG.html)
+**发布时间**: 2026-06-17 18:20
+
+#### [阿里发布世界模型HappyOyster 1.0，用户可实时探索、导演并重塑 AI 世界](https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html)
+**发布时间**: 2026-06-17 18:08
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion)
+**发布时间**: 2026-06-17 15:26
+
+#### [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
+**发布时间**: 2026-06-17 10:18
+
+#### [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch)
+**发布时间**: 2026-06-17 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [In game theory, generalists sometimes win out over specialists](https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617)
+**发布时间**: 2026-06-17 15:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！](https://www.qbitai.com/2026/06/436456.html)
+**发布时间**: 2026-06-17 13:07
+
+#### [AI转型最大的门槛，不是技术，是人](https://www.qbitai.com/2026/06/436435.html)
+**发布时间**: 2026-06-17 12:36
+
+#### [星海图创始人高继扬：具身智能三层技术路线，没有捷径可走](https://www.qbitai.com/2026/06/436223.html)
+**发布时间**: 2026-06-17 10:55
+
+#### [九章云极发布“AI工厂”战略 定义智能规模化新基建](https://www.qbitai.com/2026/06/436224.html)
+**发布时间**: 2026-06-17 10:51
+
+#### [算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级](https://www.qbitai.com/2026/06/436213.html)
+**发布时间**: 2026-06-17 10:16
+
+#### [为什么最有价值的AI讨论总发生在知乎？](https://www.qbitai.com/2026/06/436211.html)
+**发布时间**: 2026-06-17 10:13
 
 ---
 
