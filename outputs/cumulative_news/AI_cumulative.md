@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-18 09:09
+**最后更新时间**: 2026-06-19 00:20
+
+---
+
+## 🆕 最新更新 (2026-06-19 00:20)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [最先自研芯片的朱江明，有什么理由劝大家“别造了”？](https://www.leiphone.com/category/transportation/8YqmG5gzTCDsi2cQ.html)
+**发布时间**: 2026-06-18 23:53
+
+#### [沙发搬到线上：火山引擎视频云如何用RTC+直播打造一场“云上陪看房”？](https://www.leiphone.com/category/industrynews/Aw21BOxW74lN89Nd.html)
+**发布时间**: 2026-06-18 18:51
+
+#### [庭院机器人大乱斗：为何关键一仗在草坪？](https://www.leiphone.com/category/robot/NCDqDsxS5AgjJxV6.html)
+**发布时间**: 2026-06-18 18:36
+
+#### [魔法原子携手安行能源、憬驰智能，加速机器人落地“最后一公里”](https://www.leiphone.com/category/industrynews/Xih4xedfgY6q1A21.html)
+**发布时间**: 2026-06-18 18:34
+
+#### [Momenta港股IPO证监会备案通过，将成“物理AI第一股”](https://www.leiphone.com/category/industrynews/mOyyJ7O75GDwbwTc.html)
+**发布时间**: 2026-06-18 18:04
+
+#### [对话李斌：乐道L60上市之后，关于长期主义的十问十答](https://www.leiphone.com/category/transportation/UYQboL0O0jrnmgE6.html)
+**发布时间**: 2026-06-18 16:48
+
+#### [算电协同进入Agent时代：商汤大装置SenseSynergy获信通院能力认证](https://www.leiphone.com/category/ai/S1woPpJBb6B9xOsK.html)
+**发布时间**: 2026-06-18 16:37
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch](https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/)
+**发布时间**: 2026-06-18 23:31
+
+#### [Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)
+**发布时间**: 2026-06-18 17:32
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability](https://blogs.nvidia.com/blog/ferc-large-load-interconnection/)
+**发布时间**: 2026-06-18 20:00
+
+#### [At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI](https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/)
+**发布时间**: 2026-06-18 13:00
+
+#### [Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices](https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/)
+**发布时间**: 2026-06-18 13:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks)
+**发布时间**: 2026-06-18 18:13
+
+#### [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora)
+**发布时间**: 2026-06-18 00:00
+
+#### [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough)
+**发布时间**: 2026-06-18 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关](https://www.qbitai.com/2026/06/436758.html)
+**发布时间**: 2026-06-18 13:46
+
+#### [魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态](https://www.qbitai.com/2026/06/436802.html)
+**发布时间**: 2026-06-18 13:42
+
+#### [香港特区政府财政司司长陈茂波一行到访 PPIO](https://www.qbitai.com/2026/06/436751.html)
+**发布时间**: 2026-06-18 10:14
+
+#### [AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根](https://www.qbitai.com/2026/06/436740.html)
+**发布时间**: 2026-06-18 09:45
+
+#### [腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding](https://www.qbitai.com/2026/06/436674.html)
+**发布时间**: 2026-06-18 09:39
+
+#### [ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评](https://www.qbitai.com/2026/06/436698.html)
+**发布时间**: 2026-06-18 09:39
+
+#### [全员本科生！何恺明组新作：文生图，258M参数就够了](https://www.qbitai.com/2026/06/436518.html)
+**发布时间**: 2026-06-18 09:12
+
+#### [18年前不让你苦修PS的美图，这次不让你苦修AI了](https://www.qbitai.com/2026/06/436517.html)
+**发布时间**: 2026-06-18 09:07
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT in the media: For the future of tech, "Massachusetts can absolutely lead"](https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead)
+**发布时间**: 2026-06-18 00:00
 
 ---
 
