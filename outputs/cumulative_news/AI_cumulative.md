@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-19 09:25
+**最后更新时间**: 2026-06-20 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-20 00:00)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Web Search on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-19 14:15
+
+#### [Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/)
+**发布时间**: 2026-06-19 14:05
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A better way to model the behavior of metal alloys](https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619)
+**发布时间**: 2026-06-19 14:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！](https://www.qbitai.com/2026/06/436864.html)
+**发布时间**: 2026-06-19 08:42
 
 ---
 
