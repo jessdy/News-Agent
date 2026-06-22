@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-22 00:04
+**最后更新时间**: 2026-06-22 10:33
+
+---
+
+## 🆕 最新更新 (2026-06-22 10:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [把电影工业装进口袋，大疆十二年的孤独与喧嚣](https://www.leiphone.com/category/weiwu/9jq5cMWHkEgWHwUO.html)
+**发布时间**: 2026-06-22 16:05
+
+#### [阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级](https://www.leiphone.com/category/industrynews/dDawO7xmw3NKpAb9.html)
+**发布时间**: 2026-06-22 14:28
+
+#### [AI黑客越来越凶？奇安信推出AI时代的全栈式产品矩阵](https://www.leiphone.com/category/industrynews/Qf46ogEyAl3ohR5s.html)
+**发布时间**: 2026-06-22 14:10
+
+#### [Robotaxi匍匐前进十年：烧掉千亿后，终于要赚钱了？](https://www.leiphone.com/category/transportation/pb4PRACFvXFd32lY.html)
+**发布时间**: 2026-06-22 12:43
+
+#### [拼多多常态化生态治理见实效：半年出台70余项举措 图书治理关店4000多家](https://www.leiphone.com/category/industrynews/6piq1fYo2SlpNR7E.html)
+**发布时间**: 2026-06-22 11:28
+
+#### [LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段](https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html)
+**发布时间**: 2026-06-22 11:00
+
+#### [Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦](https://www.leiphone.com/category/ai/Fkjtf266Ai0l43XB.html)
+**发布时间**: 2026-06-22 10:58
+
+#### [AI 太烧钱！微软选择「倒戈」DeepSeek](https://www.leiphone.com/category/ai/66F6EZoPUvuBgKtF.html)
+**发布时间**: 2026-06-22 10:55
+
+#### [从代码到产线：恩和发布 BPL 协议语言，定义生物制造的“工业级编译器”](https://www.leiphone.com/category/industrynews/YWWglepflccEwGzS.html)
+**发布时间**: 2026-06-22 10:25
+
+#### [ASML向美国保证：中国没任何机会拿到我们最先进EUV光刻机；约5万人将失业！大众宣布大裁员；刘强东：将来不需要快递员，70万兄弟要转行](https://www.leiphone.com/category/zaobao/CjtmS9BIqn0j7Noy.html)
+**发布时间**: 2026-06-22 08:37
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-22日刊](https://hex2077.dev/docs/2026-06/2026-06-22/)
+**发布时间**: 2026-06-22 09:52
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级](https://www.qbitai.com/2026/06/437317.html)
+**发布时间**: 2026-06-22 07:30
+
+#### [AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军](https://www.qbitai.com/2026/06/437308.html)
+**发布时间**: 2026-06-22 06:22
+
+#### [DeepSeek缺Agent人才缺疯了！负责人各种贴广告](https://www.qbitai.com/2026/06/437249.html)
+**发布时间**: 2026-06-22 05:09
+
+#### [入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习](https://www.qbitai.com/2026/06/437235.html)
+**发布时间**: 2026-06-22 03:48
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/)
+**发布时间**: 2026-06-22 05:00
 
 ---
 
