@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-22 10:33
+**最后更新时间**: 2026-06-23 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-23 00:00)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Fable 5 刚被封杀，OpenRouter 用「多模型协作」搞出了「平替天团」](https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html)
+**发布时间**: 2026-06-22 18:03
+
+#### [超越 SONIC ！人形机器人通用小脑迎来 GPT 时刻](https://www.leiphone.com/category/ai/lzqSU7xisToFg45M.html)
+**发布时间**: 2026-06-22 17:48
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-06-22 17:53
+
+#### [Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/)
+**发布时间**: 2026-06-22 16:32
+
+#### [Running ComfyUI workflows on Amazon SageMaker AI processing jobs](https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/)
+**发布时间**: 2026-06-22 16:28
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6)
+**发布时间**: 2026-06-22 13:18
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [At ISC, JUPITER Shows What Exascale Science Looks Like](https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/)
+**发布时间**: 2026-06-22 13:00
+
+#### [NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure](https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/)
+**发布时间**: 2026-06-22 13:00
+
+#### [NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory](https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/)
+**发布时间**: 2026-06-22 13:00
+
+#### [From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries](https://blogs.nvidia.com/blog/ai-for-science-software-cuda/)
+**发布时间**: 2026-06-22 13:00
+
+#### [Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins](https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/)
+**发布时间**: 2026-06-22 13:00
 
 ---
 
