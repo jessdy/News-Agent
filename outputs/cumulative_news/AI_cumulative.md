@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-23 08:24
+**最后更新时间**: 2026-06-23 23:48
+
+---
+
+## 🆕 最新更新 (2026-06-23 23:48)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [火山引擎下半年往哪发力？答案藏在这场Force大会里](https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html)
+**发布时间**: 2026-06-24 00:21
+
+#### [响应国家「体重管理年」，蚂蚁阿福发起「科学减重1亿斤」行动](https://www.leiphone.com/category/industrynews/Bqf1PqF4RtuxHXnP.html)
+**发布时间**: 2026-06-23 18:35
+
+#### [GAIR Paper 104｜Agent 真的能自我进化吗？我们造了一把它骗不过去的尺子](https://www.leiphone.com/category/private/lWPaab1Q7cpgqnRI.html)
+**发布时间**: 2026-06-23 18:25
+
+#### [起底大晓：四个月狂融数亿美金，国家队、车企、芯片巨头为何集体「押注」](https://www.leiphone.com/category/industrynews/SmlYKtAdXG3bGMMu.html)
+**发布时间**: 2026-06-23 18:20
+
+#### [绿米向左，萤石向右：穿越周期的幸存者](https://www.leiphone.com/category/smarthome/hqbC4c6g5a8xyBE6.html)
+**发布时间**: 2026-06-23 15:59
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Exploring the societal impacts of AI](https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623)
+**发布时间**: 2026-06-23 16:40
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build a protein research copilot with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-23 16:39
+
+#### [Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-06-23 15:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持](https://www.qbitai.com/2026/06/437694.html)
+**发布时间**: 2026-06-23 13:54
+
+#### [云计算一哥，让小鹏、Kimi和猎豹都爽了一把](https://www.qbitai.com/2026/06/437672.html)
+**发布时间**: 2026-06-23 13:47
+
+#### [刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码](https://www.qbitai.com/2026/06/437503.html)
+**发布时间**: 2026-06-23 13:37
+
+#### [雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一](https://www.qbitai.com/2026/06/437489.html)
+**发布时间**: 2026-06-23 03:38
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How Businesses Are Building Specialized AI They Can Trust](https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/)
+**发布时间**: 2026-06-23 13:00
+
+#### [NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers](https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/)
+**发布时间**: 2026-06-23 09:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps)
+**发布时间**: 2026-06-23 12:51
+
+#### [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage)
+**发布时间**: 2026-06-23 00:00
 
 ---
 
