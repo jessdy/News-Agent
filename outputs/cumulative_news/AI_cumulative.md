@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-23 00:00
+**最后更新时间**: 2026-06-23 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-23 08:24)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色](https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html)
+**发布时间**: 2026-06-23 13:57
+
+#### [拼多多扎根雄安再添重磅动作：整栋购置新办公楼，7月底投入使用](https://www.leiphone.com/category/industrynews/su1MkcYr4FkJ8CLq.html)
+**发布时间**: 2026-06-23 13:23
+
+#### [阿里高管集体下田插秧，忙了一上午才种半亩？网友：真人版「芭芭农场」实锤了；智谱市值超1万亿港元；乐道总裁：卖车比我考清华大学还难](https://www.leiphone.com/category/zaobao/h3CWyacKTOhA0l1L.html)
+**发布时间**: 2026-06-23 10:56
+
+#### [成立不到90天的超级创企昆仑行，刷新具身最快独角兽](https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html)
+**发布时间**: 2026-06-23 10:36
+
+#### [直播间变拍卖场，TikTok Shop找到了北美直播电商的「流量解药」？](https://www.leiphone.com/category/industrynews/VfKoA3plfFvnpHtB.html)
+**发布时间**: 2026-06-23 10:30
+
+#### [GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除](https://www.leiphone.com/category/private/qY695YwdBe6ap14w.html)
+**发布时间**: 2026-06-23 10:13
+
+#### [独家解读丨SpaceX今晚IPO，华尔街为何却吵翻了天？](https://www.leiphone.com/category/industrynews/qCw7a9DKFNHJFgSe.html)
+**发布时间**: 2026-06-23 09:46
+
+#### [618数码3C：天猫用新品悄然筑起了新护城河](https://www.leiphone.com/category/smartretailing/9QKy3iunwURcjyR2.html)
+**发布时间**: 2026-06-23 09:45
+
+#### [独家丨微软与平安CEO，曾「密谋」联手做云](https://www.leiphone.com/category/industrycloud/23aEGFli48UtVkDq.html)
+**发布时间**: 2026-06-23 09:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐](https://www.qbitai.com/2026/06/437425.html)
+**发布时间**: 2026-06-23 07:31
+
+#### [可口可乐的世界杯TVC，居然是prompt生成的](https://www.qbitai.com/2026/06/437381.html)
+**发布时间**: 2026-06-23 06:10
+
+#### [机器人全栈操作系统！老黄率先抛出“具身版安卓”](https://www.qbitai.com/2026/06/437382.html)
+**发布时间**: 2026-06-23 06:06
+
+#### [马斯克又盯上AI基建：特斯拉要卖“算力积木”了](https://www.qbitai.com/2026/06/437340.html)
+**发布时间**: 2026-06-23 06:02
+
+#### [小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…](https://www.qbitai.com/2026/06/437330.html)
+**发布时间**: 2026-06-23 00:33
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/)
+**发布时间**: 2026-06-23 06:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci)
+**发布时间**: 2026-06-23 00:00
+
+#### [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage)
+**发布时间**: 2026-06-22 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New chip could help tiny robots traverse complex environments](https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623)
+**发布时间**: 2026-06-23 00:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-23日刊](https://hex2077.dev/docs/2026-06/2026-06-23/)
+**发布时间**: 2026-06-22 23:21
 
 ---
 
