@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-23 23:48
+**最后更新时间**: 2026-06-24 08:18
+
+---
+
+## 🆕 最新更新 (2026-06-24 08:18)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折](https://www.leiphone.com/category/industrynews/fnvQGe0cc0EAX1bK.html)
+**发布时间**: 2026-06-24 12:03
+
+#### [存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12](https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html)
+**发布时间**: 2026-06-24 11:25
+
+#### [独家丨首周锁单超1.3万台，小鹏GX还未到大爆的程度](https://www.leiphone.com/category/transportation/GuMr52kfBBLLfvF1.html)
+**发布时间**: 2026-06-24 11:20
+
+#### [独家丨前安克智能安防产品线负责人李琳琅创业，或布局家庭影像](https://www.leiphone.com/category/weiwu/7zaMf4VggZX1xtiw.html)
+**发布时间**: 2026-06-24 11:11
+
+#### [芯片5倍涨价、碳酸锂翻番，五大车企高管交底：价格战走到头了丨重庆论坛观察](https://www.leiphone.com/category/transportation/7dBfrkDbL4iRpLn1.html)
+**发布时间**: 2026-06-24 11:05
+
+#### [独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施](https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html)
+**发布时间**: 2026-06-24 10:54
+
+#### [豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景](https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html)
+**发布时间**: 2026-06-24 10:41
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [物理AI第一块万亿市场，在公路货运先跑通闭环了](https://www.qbitai.com/2026/06/437853.html)
+**发布时间**: 2026-06-24 06:06
+
+#### [华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖](https://www.qbitai.com/2026/06/437833.html)
+**发布时间**: 2026-06-24 05:30
+
+#### [阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折](https://www.qbitai.com/2026/06/437834.html)
+**发布时间**: 2026-06-24 04:34
+
+#### [刚刚，Claude Code大升级！卡帕西：LLM第三次变革](https://www.qbitai.com/2026/06/437734.html)
+**发布时间**: 2026-06-24 03:56
+
+#### [周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划](https://www.qbitai.com/2026/06/437838.html)
+**发布时间**: 2026-06-24 03:45
+
+#### [2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布](https://www.qbitai.com/2026/06/437698.html)
+**发布时间**: 2026-06-24 03:14
+
+#### [智能座舱之王「转身」物理AI，高通需要被重估了](https://www.qbitai.com/2026/06/432494.html)
+**发布时间**: 2026-06-24 00:26
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-24日刊](https://hex2077.dev/docs/2026-06/2026-06-24/)
+**发布时间**: 2026-06-24 00:18
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA and AWS Collaborate to Bring AI to Production at Scale](https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/)
+**发布时间**: 2026-06-24 00:05
 
 ---
 
