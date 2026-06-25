@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-24 08:18
+**最后更新时间**: 2026-06-24 23:58
+
+---
+
+## 🆕 最新更新 (2026-06-24 23:58)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [世界模型混战，Momenta率先冲刺IPO](https://www.qbitai.com/2026/06/438179.html)
+**发布时间**: 2026-06-24 23:20
+
+#### [百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型](https://www.qbitai.com/2026/06/438174.html)
+**发布时间**: 2026-06-24 11:09
+
+#### [1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器](https://www.qbitai.com/2026/06/438166.html)
+**发布时间**: 2026-06-24 10:38
+
+#### [Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026](https://www.qbitai.com/2026/06/438157.html)
+**发布时间**: 2026-06-24 09:58
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [别让 AI 碰生产环境！Reddit 火爆血泪贴，痛诉 AI 如何一刀切断数据库生命线](https://www.leiphone.com/category/yanxishe/oG2mZO3y4nGNbORu.html)
+**发布时间**: 2026-06-24 19:10
+
+#### [百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型](https://www.leiphone.com/category/industrynews/He2ajsw4G5vP9m2R.html)
+**发布时间**: 2026-06-24 18:58
+
+#### [京东与魔法原子达成战略合作 共拓具身智能产业化新范式](https://www.leiphone.com/category/industrynews/xqROkc70MtjJFKJ4.html)
+**发布时间**: 2026-06-24 18:31
+
+#### [易观报告披露公共充电市场份额 滴滴充电、特来电、云快充前三](https://www.leiphone.com/category/industrynews/j26HyFHAadAMeT7k.html)
+**发布时间**: 2026-06-24 15:07
+
+#### [360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力](https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html)
+**发布时间**: 2026-06-24 15:00
+
+#### [收入远高本土平均水平！三星、SK海力士员工跻身韩国婚恋市场顶层；急缺人才！DeepSeek Harness负责人称每日不停面试招人；微信迎重大更新](https://www.leiphone.com/category/zaobao/ci2DnFLhl4SMWN72.html)
+**发布时间**: 2026-06-24 08:47
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Huntington Bank: Redacting sensitive data from 400M+ documents with AWS](https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/)
+**发布时间**: 2026-06-24 18:24
+
+#### [Build a healthcare appointment agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/)
+**发布时间**: 2026-06-24 18:20
+
+#### [AI-powered BI with Snowflake and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/)
+**发布时间**: 2026-06-24 18:19
+
+#### [How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/)
+**发布时间**: 2026-06-24 16:56
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Thinking to recall: How reasoning unlocks parametric knowledge in LLMs](https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/)
+**发布时间**: 2026-06-24 16:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)
+**发布时间**: 2026-06-24 16:00
+
+#### [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard)
+**发布时间**: 2026-06-24 00:00
 
 ---
 
