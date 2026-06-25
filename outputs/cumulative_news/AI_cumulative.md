@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-24 23:58
+**最后更新时间**: 2026-06-25 08:17
+
+---
+
+## 🆕 最新更新 (2026-06-25 08:17)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [淘宝出海推出服饰电子周刊 用"明星同款"接住全球消费者](https://www.leiphone.com/category/industrynews/lAhton8P4tClasBP.html)
+**发布时间**: 2026-06-25 11:59
+
+#### [北京大学企业家代表团到访腾势汽车暨尊享交付仪式](https://www.leiphone.com/category/industrynews/PslEYE0Lykee1UGY.html)
+**发布时间**: 2026-06-25 11:49
+
+#### [马斯克悄悄改了战场：Grok Build 0.2.60 剑指 Agent Runtime](https://www.leiphone.com/category/ai/9NVnWMuqKHrViS35.html)
+**发布时间**: 2026-06-25 10:55
+
+#### [7 年 Google 老兵写出爆款工具被开除，转头官方发同款？OpenClaw 之父下场抢人](https://www.leiphone.com/category/yanxishe/TYljaPgp8leEjNRY.html)
+**发布时间**: 2026-06-25 10:49
+
+#### [百度文心网站全面升级，功能矩阵再扩容](https://www.leiphone.com/category/industrynews/dHP54vx4BZ4KfRHp.html)
+**发布时间**: 2026-06-25 10:03
+
+#### [赛那德SENAD完成 3 亿元 C 轮融资， 加速物理 AI 物流场景规模化落地](https://www.leiphone.com/category/industrynews/0EXFJiJBlvQ7Bi9w.html)
+**发布时间**: 2026-06-25 09:50
+
+#### [物理AI的船票，藏在世界模型里](https://www.leiphone.com/category/transportation/G2qSdvIbBYQ13ERf.html)
+**发布时间**: 2026-06-24 22:05
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-25日刊](https://hex2077.dev/docs/2026-06/2026-06-25/)
+**发布时间**: 2026-06-25 09:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了](https://www.qbitai.com/2026/06/438365.html)
+**发布时间**: 2026-06-25 07:02
+
+#### [马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久](https://www.qbitai.com/2026/06/438351.html)
+**发布时间**: 2026-06-25 04:35
+
+#### [不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码](https://www.qbitai.com/2026/06/438336.html)
+**发布时间**: 2026-06-25 04:29
+
+#### [聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳](https://www.qbitai.com/2026/06/438297.html)
+**发布时间**: 2026-06-25 02:22
+
+#### [豆包收费版第一天，我：充值…又得充值？我要再充值！](https://www.qbitai.com/2026/06/438204.html)
+**发布时间**: 2026-06-25 00:32
+
+#### [“AI填志愿”成高考后新现象，超1400万人在和千问聊高考](https://www.qbitai.com/2026/06/438198.html)
+**发布时间**: 2026-06-24 10:13
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Improving the speed and energy-efficiency of AI agents](https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625)
+**发布时间**: 2026-06-25 00:00
 
 ---
 
