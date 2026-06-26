@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-26 00:04
+**最后更新时间**: 2026-06-26 08:26
+
+---
+
+## 🆕 最新更新 (2026-06-26 08:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [MOVA V70 Ultra Complete横扫欧洲权威评测榜单，多家媒体授予最高评价](https://www.leiphone.com/category/industrynews/mFSpJI5LepHU9nke.html)
+**发布时间**: 2026-06-26 14:13
+
+#### [速卖通618战报：品牌成交同比增长90%，一批中国品牌迎来海外爆发](https://www.leiphone.com/category/industrynews/GJaTWaT1fZ3mjaSf.html)
+**发布时间**: 2026-06-26 14:12
+
+#### [MOVA割草机器人出货量破50万！增速登顶全球割草赛道](https://www.leiphone.com/category/industrynews/2J73t9lAS4yr7Gnw.html)
+**发布时间**: 2026-06-26 14:08
+
+#### [速卖通618战报：品牌成交同比增长90%，多类目涌现百万美金冠军](https://www.leiphone.com/category/industrynews/BuzrH6nc50Oz03g5.html)
+**发布时间**: 2026-06-26 14:08
+
+#### [【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架](https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html)
+**发布时间**: 2026-06-26 13:46
+
+#### [豆包推出专业版，能成为你的「工作搭子」吗？](https://www.leiphone.com/category/industrynews/G8Tqx355YsGfzxVy.html)
+**发布时间**: 2026-06-26 12:24
+
+#### [Gartner发布企业级AI Coding报告，阿里云入围挑战者象限](https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html)
+**发布时间**: 2026-06-26 11:42
+
+#### [GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平](https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html)
+**发布时间**: 2026-06-26 11:36
+
+#### [无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发](https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html)
+**发布时间**: 2026-06-26 11:30
+
+#### [元点Zeroth迎来拉美首秀 全球首款自主回充机器人掀起全球具身新热潮](https://www.leiphone.com/category/industrynews/ndkePEOeiP8UBww4.html)
+**发布时间**: 2026-06-26 11:15
+
+#### [马斯克 SpaceX 还没把数据中心送上太空，中国 GobiX 已在戈壁落地](https://www.leiphone.com/category/transportation/xYypGspPg2OhtNK7.html)
+**发布时间**: 2026-06-26 10:31
+
+#### [ICML 2026 | 面向视觉语言模型的语义鲁棒性认证](https://www.leiphone.com/category/private/d6elsBWhBfMQcPwV.html)
+**发布时间**: 2026-06-26 10:21
+
+#### [高通发布面向智能体AI时代的数据中心技术路线图，推出全新高通飞龙产品组合](https://www.leiphone.com/category/industrynews/ysX5UfFT4AN2gjf9.html)
+**发布时间**: 2026-06-26 10:20
+
+#### [ICML 2026 REViT 发布 | 这可能是这个 Transformer 时代，CNN最后的体面](https://www.leiphone.com/category/private/CaHdW6V618yHGwSC.html)
+**发布时间**: 2026-06-26 10:12
+
+#### [AI生成的图片正在反向对齐人类的审美？ICML 2026观点论文Spotlight](https://www.leiphone.com/category/private/Aq7BlI0pUA6tYBGW.html)
+**发布时间**: 2026-06-26 10:00
+
+#### [华为助力全球运营商以网为基，以智为翼，业网算协同创新，迈向Token经营新征程](https://www.leiphone.com/category/industrynews/9cFKz0QD69YSuam7.html)
+**发布时间**: 2026-06-25 17:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Claude Fable 5分批重新上线！GPT-5.6秒跟](https://www.qbitai.com/2026/06/438789.html)
+**发布时间**: 2026-06-26 06:55
+
+#### [从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了](https://www.qbitai.com/2026/06/438750.html)
+**发布时间**: 2026-06-26 05:12
+
+#### [华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”](https://www.qbitai.com/2026/06/438741.html)
+**发布时间**: 2026-06-26 04:00
+
+#### [让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题](https://www.qbitai.com/2026/06/438701.html)
+**发布时间**: 2026-06-26 03:47
+
+#### [英伟达MoE新开源：一行import，微调加速3.7倍](https://www.qbitai.com/2026/06/438703.html)
+**发布时间**: 2026-06-26 03:23
+
+#### [WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！](https://www.qbitai.com/2026/06/438698.html)
+**发布时间**: 2026-06-26 02:58
+
+#### [库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了](https://www.qbitai.com/2026/06/438690.html)
+**发布时间**: 2026-06-26 01:26
 
 ---
 
