@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-26 08:26
+**最后更新时间**: 2026-06-26 23:55
+
+---
+
+## 🆕 最新更新 (2026-06-26 23:55)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [时代旗舰MPV尊界V800正式开启预订，预售价格80万元-120万元](https://www.leiphone.com/category/industrynews/iQCLuMsbJhu8KtVD.html)
+**发布时间**: 2026-06-26 22:55
+
+#### [行业首个！大晓「晓途」开启机器狗开放场景7×24小时自主运营新模式](https://www.leiphone.com/category/ai/8So3cLimLEfWaVm4.html)
+**发布时间**: 2026-06-26 20:01
+
+#### [31.98万元~34.98万元，腾势N8L闪充版正式上市](https://www.leiphone.com/category/transportation/c3LqX3eKnZMSvGBO.html)
+**发布时间**: 2026-06-26 16:49
+
+#### [全网疯抢体脂秤背后，阿福找到了健康AI的正确打开方式](https://www.leiphone.com/category/healthai/TzDqHHO6ZgMXs0is.html)
+**发布时间**: 2026-06-26 16:33
+
+#### [RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构](https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html)
+**发布时间**: 2026-06-26 16:33
+
+#### [对话超维传感李炎辉：为什么那么多具身智能公司，都来抢着做「触觉」？](https://www.leiphone.com/category/robot/Q6XEzSSNN50X3wwt.html)
+**发布时间**: 2026-06-26 16:28
+
+#### [ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！](https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html)
+**发布时间**: 2026-06-26 15:54
+
+#### [市占登顶，设计封王：MOVA割草机器人获红点设计大奖，铸就全球多维第一](https://www.leiphone.com/category/industrynews/i6DJmITnO2cIntfS.html)
+**发布时间**: 2026-06-26 15:35
+
+#### [原子重塑AtomForm Palette 300 荣膺伦敦设计奖金奖](https://www.leiphone.com/category/industrynews/qeUu7gHdsUrxWDTz.html)
+**发布时间**: 2026-06-26 15:31
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction](https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/)
+**发布时间**: 2026-06-26 18:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地](https://www.qbitai.com/2026/06/438887.html)
+**发布时间**: 2026-06-26 15:45
+
+#### [谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的](https://www.qbitai.com/2026/06/438848.html)
+**发布时间**: 2026-06-26 08:05
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/)
+**发布时间**: 2026-06-26 14:47
+
+#### [How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS](https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/)
+**发布时间**: 2026-06-26 14:42
+
+#### [Production-grade AI agents for financial compliance: Lessons from Stripe](https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/)
+**发布时间**: 2026-06-26 14:38
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [David Autor named head of the Department of Economics](https://news.mit.edu/2026/david-autor-named-head-department-economics-0626)
+**发布时间**: 2026-06-26 12:00
+
+#### [LLMs help robots understand vague instructions and focus on key details](https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626)
+**发布时间**: 2026-06-26 09:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-26日刊](https://hex2077.dev/docs/2026-06/2026-06-26/)
+**发布时间**: 2026-06-25 23:58
 
 ---
 
