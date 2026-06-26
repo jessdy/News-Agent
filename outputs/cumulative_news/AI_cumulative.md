@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-25 08:17
+**最后更新时间**: 2026-06-26 00:04
+
+---
+
+## 🆕 最新更新 (2026-06-26 00:04)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
+**发布时间**: 2026-06-26 00:00
+
+#### [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction)
+**发布时间**: 2026-06-25 16:11
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [这次是阿里！中国的大模型团队快被 Anthropic 告完了](https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html)
+**发布时间**: 2026-06-25 23:02
+
+#### [一天不到领了10万台！蚂蚁阿福AI体脂秤全网抢疯了](https://www.leiphone.com/category/industrynews/6yjFTTDjn7OJJIDu.html)
+**发布时间**: 2026-06-25 18:34
+
+#### [被遗忘十年的LPU翻红，一门新生意成立了吗？](https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html)
+**发布时间**: 2026-06-25 17:45
+
+#### [商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道](https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html)
+**发布时间**: 2026-06-25 17:40
+
+#### [蚂蚁集团联合Rokid、雷鸟发起AI眼镜智能体开发者大赛，面向全社会广泛招募](https://www.leiphone.com/category/industrynews/K3HytVZSFFocfLwb.html)
+**发布时间**: 2026-06-25 16:07
+
+#### [央视起底高报乱象，千问吴嘉发声：免费志愿服务不应被高价倒卖](https://www.leiphone.com/category/industrynews/aLhjASxiKohg7Fuf.html)
+**发布时间**: 2026-06-25 14:49
+
+#### [GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026](https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html)
+**发布时间**: 2026-06-25 14:45
+
+#### [GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026](https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html)
+**发布时间**: 2026-06-25 14:42
+
+#### [39万起被用户吐槽卖太便宜！小米YU7 GT销售：下单的大多是有实力的年轻人；山姆会员去世退卡要本人到场？客服回应；马斯克已不是万亿富豪](https://www.leiphone.com/category/zaobao/a9jHLanDi14pazR1.html)
+**发布时间**: 2026-06-25 08:52
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/)
+**发布时间**: 2026-06-25 17:55
+
+#### [Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell](https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/)
+**发布时间**: 2026-06-25 16:41
+
+#### [Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-06-25 16:40
+
+#### [Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/)
+**发布时间**: 2026-06-25 16:38
+
+#### [Building agentic AI applications with a modern data mesh strategy on AWS](https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/)
+**发布时间**: 2026-06-25 16:35
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts](https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/)
+**发布时间**: 2026-06-25 13:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success](https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success)
+**发布时间**: 2026-06-25 12:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Optimizing cloud economics with linear elastic caching](https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/)
+**发布时间**: 2026-06-25 10:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC UP!｜AI圈都在聊参数，我们偏不](https://www.qbitai.com/2026/06/438364.html)
+**发布时间**: 2026-06-25 09:59
+
+#### [三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》](https://www.qbitai.com/2026/06/438658.html)
+**发布时间**: 2026-06-25 09:46
+
+#### [科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程](https://www.qbitai.com/2026/06/438638.html)
+**发布时间**: 2026-06-25 08:32
+
+#### [4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？](https://www.qbitai.com/2026/06/438468.html)
+**发布时间**: 2026-06-25 08:00
 
 ---
 
