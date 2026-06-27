@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-27 09:56
+**最后更新时间**: 2026-06-27 23:54
+
+---
+
+## 🆕 最新更新 (2026-06-27 23:54)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [安全预警系统，看不见的滴滴「基建」](https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html)
+**发布时间**: 2026-06-28 00:54
+
+#### [vivo“再造”折叠屏](https://www.leiphone.com/category/weiwu/xwKJa2OJ5xsHkTRs.html)
+**发布时间**: 2026-06-27 21:33
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力](https://www.qbitai.com/2026/06/439393.html)
+**发布时间**: 2026-06-27 12:29
+
+#### [第一批一人公司，现在怎么样了？](https://www.qbitai.com/2026/06/439237.html)
+**发布时间**: 2026-06-27 12:23
+
+#### [CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！](https://www.qbitai.com/2026/06/439236.html)
+**发布时间**: 2026-06-27 12:19
 
 ---
 
