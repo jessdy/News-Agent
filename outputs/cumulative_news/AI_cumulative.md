@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-26 23:55
+**最后更新时间**: 2026-06-27 07:43
+
+---
+
+## 🆕 最新更新 (2026-06-27 07:43)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻](https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html)
+**发布时间**: 2026-06-27 11:44
+
+#### [打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布](https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html)
+**发布时间**: 2026-06-27 10:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [微软年度AI职场报告：员工已经准备好了，公司还没有](https://www.qbitai.com/2026/06/439032.html)
+**发布时间**: 2026-06-27 04:48
+
+#### [GPT-5.6突然发布！Fable5痛失最强基模王座](https://www.qbitai.com/2026/06/438895.html)
+**发布时间**: 2026-06-27 01:53
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-27日刊](https://hex2077.dev/docs/2026-06/2026-06-27/)
+**发布时间**: 2026-06-26 23:38
 
 ---
 
