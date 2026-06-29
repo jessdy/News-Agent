@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-29 09:22
+**最后更新时间**: 2026-06-29 23:53
+
+---
+
+## 🆕 最新更新 (2026-06-29 23:53)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Implement a backup strategy for Amazon Quick Sight BI assets](https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/)
+**发布时间**: 2026-06-29 18:15
+
+#### [Pair Nova 2 Lite with Claude for cost-optimized document processing](https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/)
+**发布时间**: 2026-06-29 17:52
+
+#### [Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS](https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/)
+**发布时间**: 2026-06-29 17:39
+
+#### [Build an agentic AI healthcare claims pipeline with Amazon Bedrock and AWS HealthLake](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/)
+**发布时间**: 2026-06-29 17:36
+
+#### [Debugging production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/)
+**发布时间**: 2026-06-29 17:25
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer)
+**发布时间**: 2026-06-29 18:02
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure](https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/)
+**发布时间**: 2026-06-29 17:00
+
+#### [Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time](https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/)
+**发布时间**: 2026-06-29 15:00
+
+#### [Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron](https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/)
+**发布时间**: 2026-06-29 10:59
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从 VCloud 到 Agentic VCloud：Agent 时代的范式重构](https://www.leiphone.com/category/industrynews/WqCn3r8LHkqFKmhZ.html)
+**发布时间**: 2026-06-29 16:02
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students](https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629)
+**发布时间**: 2026-06-29 15:00
+
+#### [3 Questions: Beyond data-driven aesthetics](https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629)
+**发布时间**: 2026-06-29 14:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全球首个：隐空间世界模型，打通长时序双向物理因果链了！](https://www.qbitai.com/2026/06/439891.html)
+**发布时间**: 2026-06-29 14:33
+
+#### [Claude Mythos让梁文锋决定融资](https://www.qbitai.com/2026/06/439863.html)
+**发布时间**: 2026-06-29 08:54
+
+#### [OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据](https://www.qbitai.com/2026/06/439876.html)
+**发布时间**: 2026-06-29 08:49
+
+#### [国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片](https://www.qbitai.com/2026/06/439861.html)
+**发布时间**: 2026-06-29 08:29
+
+#### [AI当老板，快给10家公司干破产了…](https://www.qbitai.com/2026/06/439864.html)
+**发布时间**: 2026-06-29 08:23
 
 ---
 
