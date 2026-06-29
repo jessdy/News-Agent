@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-29 00:01
+**最后更新时间**: 2026-06-29 09:22
+
+---
+
+## 🆕 最新更新 (2026-06-29 09:22)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题](https://www.leiphone.com/category/ai/3QqhbnrdnlxcrD1R.html)
+**发布时间**: 2026-06-29 15:12
+
+#### [有道把 AI 订阅装进词典笔，学习硬件商业模式迎来变化](https://www.leiphone.com/category/industrynews/OrsinRYjaqk6Id9F.html)
+**发布时间**: 2026-06-29 15:11
+
+#### [Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点](https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html)
+**发布时间**: 2026-06-29 15:03
+
+#### [市场份额从41%掉到26%，Cursor凭什么还值600亿？](https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html)
+**发布时间**: 2026-06-29 15:01
+
+#### [多篇成果入选，快手邀您共赴ICML 2026！](https://www.leiphone.com/category/private/U39vz3DLoafyqcew.html)
+**发布时间**: 2026-06-29 14:58
+
+#### [独家解读丨Urtopia联创再创业：Oura是「严父」，我要做「慈母」](https://www.leiphone.com/category/weiwu/455eeQwSDJyMjNAA.html)
+**发布时间**: 2026-06-29 14:57
+
+#### [凡人修仙传首度联名小家电，友望除螨仪的“含金量”几何？](https://www.leiphone.com/category/industrynews/TMiFelendY0h8V6E.html)
+**发布时间**: 2026-06-29 14:50
+
+#### [一句「Make it better」，Fable 5 直接把贪吃蛇炼成「逆反人格」](https://www.leiphone.com/category/ai/rM0uSgeIJJ5477ZC.html)
+**发布时间**: 2026-06-29 14:50
+
+#### [美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿](https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html)
+**发布时间**: 2026-06-29 14:50
+
+#### [美媒：腾讯参投林俊旸AI公司2000万美元](https://www.leiphone.com/category/ai/m0uu1Ameqlu1vdFe.html)
+**发布时间**: 2026-06-29 14:44
+
+#### [ICML 2026｜上智院、上交大、复旦联合提出FLAG扩散框架，还原空间转录组的基因-空间双重结构](https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html)
+**发布时间**: 2026-06-29 14:40
+
+#### [独家专访｜苏炜杰加入OpenAI：Scaling Law撞墙后为什么需要数学家出手？](https://www.leiphone.com/category/ai/OUht6XHTbsegepIk.html)
+**发布时间**: 2026-06-29 14:39
+
+#### [ICML 2026 | 当大模型开始发明自己的语言：如何让 LLM 用更少 Token 完成高强度推理](https://www.leiphone.com/category/private/Ixd3nLMA98imcSnA.html)
+**发布时间**: 2026-06-29 14:36
+
+#### [独家解读｜OpenAI 为什么要冒死“脱离群众”？](https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html)
+**发布时间**: 2026-06-29 14:25
+
+#### [一线对谈丨「龙虾」过后，百度不想再卷Token了](https://www.leiphone.com/category/industrynews/AM817za4mjx5twCo.html)
+**发布时间**: 2026-06-29 14:22
+
+#### [ICML26 重磅成果！清华 UDS 智能筛选训练样本，大模型微调算力直接减半](https://www.leiphone.com/category/private/bOlZPie2LmGifkJo.html)
+**发布时间**: 2026-06-29 13:47
+
+#### [AI 技术 | ICML论文盛宴、多模态代码综述、共失效天花板理论](https://www.leiphone.com/category/private/lo0HqtoG1AxZv5Zv.html)
+**发布时间**: 2026-06-29 10:26
+
+#### [【ICML 2026】基于响应自举的LVLM安全微调框架 BYORn](https://www.leiphone.com/category/private/RNwzWwYNUvFU3jha.html)
+**发布时间**: 2026-06-29 10:22
+
+#### [“物理AI第一股”Momenta开启招股：14家超豪华基石护航，基石席位“一票难求”](https://www.leiphone.com/category/industrynews/cWATkKQ0a3yy8sWE.html)
+**发布时间**: 2026-06-29 09:40
+
+#### [扛不住内存涨价！苹果游说美国政府，请求采购长鑫存储芯片；DeepSeek发布最新论文，梁文锋署名；美的真暖MAX上市，刷新中国热泵技术](https://www.leiphone.com/category/zaobao/VHTb7BMH3w4pgCSB.html)
+**发布时间**: 2026-06-29 08:27
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-29日刊](https://hex2077.dev/docs/2026-06/2026-06-29/)
+**发布时间**: 2026-06-29 12:42
+
+#### [2026-06-28日刊](https://hex2077.dev/docs/2026-06/2026-06-28/)
+**发布时间**: 2026-06-27 23:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [啥？做AI短剧可以免费，免费，免费了！](https://www.qbitai.com/2026/06/439750.html)
+**发布时间**: 2026-06-29 05:01
+
+#### [“词元盗用”正在成为AI商业化面临的新风险](https://www.qbitai.com/2026/06/439746.html)
+**发布时间**: 2026-06-29 02:42
+
+#### [太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了](https://www.qbitai.com/2026/06/439728.html)
+**发布时间**: 2026-06-29 00:09
 
 ---
 
