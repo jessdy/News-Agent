@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-29 23:53
+**最后更新时间**: 2026-06-30 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-30 08:24)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AXera Edge-Day首站收官——构筑物理AI算力底座，打通边缘AI商业闭环](https://www.leiphone.com/category/industrynews/e5yR6yQTaPQAyzbr.html)
+**发布时间**: 2026-06-30 12:44
+
+#### [当割草机器人遇见世界杯：MOVA打造了一场庭院足球挑战赛](https://www.leiphone.com/category/industrynews/yLqc9pw9WaqaEzDr.html)
+**发布时间**: 2026-06-30 11:37
+
+#### [亿级流量导入，支付宝携手九识智能开启“无人配送”新纪元](https://www.leiphone.com/category/industrynews/abkj9hb2XXYJb0dP.html)
+**发布时间**: 2026-06-30 09:57
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-30日刊](https://hex2077.dev/docs/2026-06/2026-06-30/)
+**发布时间**: 2026-06-30 12:02
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta](https://www.qbitai.com/2026/06/440332.html)
+**发布时间**: 2026-06-30 06:51
+
+#### [24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙](https://www.qbitai.com/2026/06/440236.html)
+**发布时间**: 2026-06-30 05:53
+
+#### [Agent之间，有互联网了！](https://www.qbitai.com/2026/06/440199.html)
+**发布时间**: 2026-06-30 05:23
+
+#### [破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨](https://www.qbitai.com/2026/06/440162.html)
+**发布时间**: 2026-06-30 04:08
+
+#### [智谱唐杰：成功企业靠管理那是曾经，AI时代不行了](https://www.qbitai.com/2026/06/440024.html)
+**发布时间**: 2026-06-30 03:27
 
 ---
 
