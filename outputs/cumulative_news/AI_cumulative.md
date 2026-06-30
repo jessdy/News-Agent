@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-30 08:24
+**最后更新时间**: 2026-06-30 23:58
+
+---
+
+## 🆕 最新更新 (2026-06-30 23:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从WorldArena榜首到1500+模型落地：跨维智能证明世界模型不是Demo是生意](https://www.leiphone.com/category/industrynews/K3uywJRUmXoxm8YX.html)
+**发布时间**: 2026-07-01 00:20
+
+#### [中国信通院牵头，首个智算运维智能体评测基准正式落地，覆盖 5 款主流国产芯片](https://www.leiphone.com/category/ai/i94gGHABXfqBbfYn.html)
+**发布时间**: 2026-06-30 22:33
+
+#### [对话岚图汽车李博晓：我们不对标BBA，它们的产品力已落后](https://www.leiphone.com/category/transportation/ZLc7hGJmVdErbalZ.html)
+**发布时间**: 2026-06-30 19:57
+
+#### [某品牌汽车销售公司因造谣抹黑小米被罚款40万元](https://www.leiphone.com/category/industrynews/ljkgdG7IFqznhZ0t.html)
+**发布时间**: 2026-06-30 19:01
+
+#### [消费级3D打印第一股诞生后，谁将接受估值大考？](https://www.leiphone.com/category/weiwu/Q3sZpnI68UYu4mya.html)
+**发布时间**: 2026-06-30 18:13
+
+#### [独家丨字节、大疆背景创业者入局AI运动训练，APP排名进入多国榜单前列](https://www.leiphone.com/category/weiwu/jv7iAaM9GWqpKyre.html)
+**发布时间**: 2026-06-30 17:53
+
+#### [独家丨前云鲸、安克两员强将联手创业，瞄准AI宠物健康硬件](https://www.leiphone.com/category/weiwu/i9jJuFdnsqou2q5Q.html)
+**发布时间**: 2026-06-30 17:46
+
+#### [让机器人动作流畅丝滑如「连音」，千寻智能高阳团队提出Legato，入选RSS 2026](https://www.leiphone.com/category/private/aTTgIF3XdsBdOrVC.html)
+**发布时间**: 2026-06-30 15:19
+
+#### [字节CEO梁汝波发全员信：要求Leader实质产出；DeepSeek V4正式版高峰期价格将翻倍；共享单车79分钟收30元？哈啰客服：新车型成本超1200元](https://www.leiphone.com/category/zaobao/d18nK5LYk5LZWS8b.html)
+**发布时间**: 2026-06-30 08:29
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/)
+**发布时间**: 2026-06-30 18:40
+
+#### [Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol](https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/)
+**发布时间**: 2026-06-30 16:46
+
+#### [Simplify multi-account access to Amazon Bedrock models with managed entitlements](https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/)
+**发布时间**: 2026-06-30 16:42
+
+#### [Implementing resilience patterns with Amazon Bedrock and LLM gateway](https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/)
+**发布时间**: 2026-06-30 16:40
+
+#### [How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects](https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/)
+**发布时间**: 2026-06-30 16:37
+
+#### [Building bilingual NER for cargo logistics with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/)
+**发布时间**: 2026-06-30 16:33
+
+#### [Fine-tune Amazon Nova models for accurate email data extraction](https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/)
+**发布时间**: 2026-06-30 16:26
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
+**发布时间**: 2026-06-30 18:32
+
+#### [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable)
+**发布时间**: 2026-06-30 14:39
+
+#### [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals)
+**发布时间**: 2026-06-30 00:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Expanding our Heat Resilience data to 50+ global cities](https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/)
+**发布时间**: 2026-06-30 17:03
+
+#### [Introducing TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+**发布时间**: 2026-06-30 10:26
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science](https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/)
+**发布时间**: 2026-06-30 17:00
+
+#### [How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost](https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/)
+**发布时间**: 2026-06-30 15:00
+
+#### [How Jaiveer Singh Is Helping Robots — and Developers — Move Faster](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/)
+**发布时间**: 2026-06-30 15:00
+
+#### [Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/)
+**发布时间**: 2026-06-30 13:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: What is agentic AI today, and what do we want it to be?](https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630)
+**发布时间**: 2026-06-30 11:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百亿估值只是起点，跨维智能的物理AGI之路](https://www.qbitai.com/2026/06/440949.html)
+**发布时间**: 2026-06-30 11:04
+
+#### [港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施](https://www.qbitai.com/2026/06/440818.html)
+**发布时间**: 2026-06-30 10:20
+
+#### [顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%](https://www.qbitai.com/2026/06/440630.html)
+**发布时间**: 2026-06-30 10:09
+
+#### [Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？](https://www.qbitai.com/2026/06/440599.html)
+**发布时间**: 2026-06-30 09:34
+
+#### [GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉](https://www.qbitai.com/2026/06/440478.html)
+**发布时间**: 2026-06-30 08:46
+
+#### [中国信通院发布AI Infra运维领域首个评测基准](https://www.qbitai.com/2026/06/440454.html)
+**发布时间**: 2026-06-30 07:20
 
 ---
 
