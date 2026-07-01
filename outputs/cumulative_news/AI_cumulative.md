@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-30 23:58
+**最后更新时间**: 2026-07-01 08:44
+
+---
+
+## 🆕 最新更新 (2026-07-01 08:44)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [他山科技联合图灵奖得主萨顿共建“机器人幼儿园”，具身智能从“模仿时代”迈向“经验时代”](https://www.leiphone.com/category/industrynews/LaVawKu3UpUILUSR.html)
+**发布时间**: 2026-07-01 14:18
+
+#### [UC Berkeley Ken Goldberg 教授：具身数据规模落后十万年，你仍然相信数据万能吗？| ICRA 2026](https://www.leiphone.com/category/industrynews/92jlrAw30yRS1lnt.html)
+**发布时间**: 2026-07-01 13:45
+
+#### [杀上闭源前沿，国产最强已经无法满足 GLM-5.2 了](https://www.leiphone.com/category/industrynews/Zi0BnF17zHARAgxx.html)
+**发布时间**: 2026-07-01 13:42
+
+#### [国产 Coding 争霸赛：MiniMax 爆冷登顶，DeepSeek 性价比称王](https://www.leiphone.com/category/industrynews/ft5tFfCB8Zh0ZFo8.html)
+**发布时间**: 2026-07-01 13:34
+
+#### [速卖通首次发布618中国品牌出海成交榜，100大品牌脱颖而出](https://www.leiphone.com/category/industrynews/PCuB5xbRxXkQK8oT.html)
+**发布时间**: 2026-07-01 13:24
+
+#### [阿里速卖通首次公布618中国品牌出海成交榜](https://www.leiphone.com/category/industrynews/msCktbsfaiDztOrx.html)
+**发布时间**: 2026-07-01 13:00
+
+#### [文生图开源第一易主，但 HiDream-O1-Image 为什么褒贬不一？](https://www.leiphone.com/category/industrynews/k6n3fjnppcQ2hyh9.html)
+**发布时间**: 2026-07-01 11:48
+
+#### [当 SkyClaw-v1.0 说「专攻 Agent」，它到底在卖什么？](https://www.leiphone.com/category/industrynews/u9oriAZ94JFFmnxR.html)
+**发布时间**: 2026-07-01 11:44
+
+#### [Multi-Agent 实测：不会带团队，模型干到死](https://www.leiphone.com/category/industrynews/RTAChbLCPVfJQYm6.html)
+**发布时间**: 2026-07-01 11:35
+
+#### [光子跃迁发布个人智能影像生态：以全链路AI与万物共振，作答“下一代影像”](https://www.leiphone.com/category/weiwu/wbpg1SnfAXX2eQ9h.html)
+**发布时间**: 2026-07-01 11:31
+
+#### [Agent 落地，数据库先变](https://www.leiphone.com/category/industrynews/KPFhlppUTN6c1v8l.html)
+**发布时间**: 2026-07-01 11:29
+
+#### [智源 SoulAgent亮相2026全球数字经济大会，打造智能听会新体验](https://www.leiphone.com/category/industrynews/pEM6kMJz6gAo4K2S.html)
+**发布时间**: 2026-07-01 11:27
+
+#### [华为“朋友圈”里，启境不当"背景板"](https://www.leiphone.com/category/transportation/Y77KFvaJ5EgNfvBW.html)
+**发布时间**: 2026-07-01 11:24
+
+#### [当我告诉 AI 把这事做完再下班，结果它真的通宵了](https://www.leiphone.com/category/industrynews/z0Zl2KVnofJuss9x.html)
+**发布时间**: 2026-07-01 11:17
+
+#### [Mimo Code 爆火：我们挖开源代码，找到小米 AI 的真创新](https://www.leiphone.com/category/industrynews/0LbpBdduLqIu5DRq.html)
+**发布时间**: 2026-07-01 11:00
+
+#### [去觅游留学了一圈，我养的 Agent 当上大 V 了](https://www.leiphone.com/category/industrynews/UUV6zpi5yfdmlRjE.html)
+**发布时间**: 2026-07-01 10:49
+
+#### [MiniMax M3 实测：第一流的模型，已经对执行层动手了](https://www.leiphone.com/category/industrynews/xscKmzmDBK4aVKoE.html)
+**发布时间**: 2026-07-01 10:46
+
+#### [金山办公集中回应近期网传误解：WPS缓存清理始终免费，7月上线体验优化](https://www.leiphone.com/category/industrynews/iAoI1uIg87Fd95u0.html)
+**发布时间**: 2026-07-01 09:39
+
+#### [以情感大模型重新定义人形机器人家庭场景，优必选超仿生机器人首发订单破万](https://www.leiphone.com/category/robot/tQIVXjxe1BNMfJPg.html)
+**发布时间**: 2026-07-01 09:37
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-01日刊](https://hex2077.dev/docs/2026-07/2026-07-01/)
+**发布时间**: 2026-07-01 10:57
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解](https://www.qbitai.com/2026/07/441246.html)
+**发布时间**: 2026-07-01 07:41
+
+#### [OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”](https://www.qbitai.com/2026/07/441240.html)
+**发布时间**: 2026-07-01 07:32
+
+#### [群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台](https://www.qbitai.com/2026/07/441237.html)
+**发布时间**: 2026-07-01 07:29
+
+#### [Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了](https://www.qbitai.com/2026/07/441225.html)
+**发布时间**: 2026-07-01 07:24
+
+#### [卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单](https://www.qbitai.com/2026/07/441183.html)
+**发布时间**: 2026-07-01 07:15
+
+#### [大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割](https://www.qbitai.com/2026/07/441140.html)
+**发布时间**: 2026-07-01 06:26
+
+#### [卖Token也不是稳赚不赔！硅基流动招股书来了](https://www.qbitai.com/2026/07/441127.html)
+**发布时间**: 2026-07-01 05:52
+
+#### [Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型](https://www.qbitai.com/2026/07/441124.html)
+**发布时间**: 2026-07-01 03:46
+
+#### [A社你解释下，啥叫Sonnet 5比Fable 5还贵？](https://www.qbitai.com/2026/07/441001.html)
+**发布时间**: 2026-07-01 01:22
+
+#### [视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒](https://www.qbitai.com/2026/07/440985.html)
+**发布时间**: 2026-07-01 01:11
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Safely Releasing Frontier Models to Customers](https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/)
+**发布时间**: 2026-07-01 03:13
 
 ---
 
