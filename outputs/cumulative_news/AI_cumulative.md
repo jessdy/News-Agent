@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-02 08:00
+**最后更新时间**: 2026-07-02 10:43
+
+---
+
+## 🆕 最新更新 (2026-07-02 10:43)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化](https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html)
+**发布时间**: 2026-07-02 15:10
+
+#### [十年榜单首迎中国双料冠军：这次赢的不只是性能](https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html)
+**发布时间**: 2026-07-02 14:16
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [钉钉A1录音卡入选Gartner AI可穿戴设备报告](https://www.qbitai.com/2026/07/442024.html)
+**发布时间**: 2026-07-02 08:03
+
+#### [招募｜量子位RSS’26专题策划](https://www.qbitai.com/2026/07/442016.html)
+**发布时间**: 2026-07-02 07:33
+
+#### [一个广告营销老炮，率先冲刺A股无人驾驶第一股](https://www.qbitai.com/2026/07/441790.html)
+**发布时间**: 2026-07-02 07:16
 
 ---
 
