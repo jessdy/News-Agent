@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Jul 2026 07:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 07:58:07 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 10:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:28:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>矿卡智驾是不是好生意？三年亏损12.4亿元，易控智驾仍未甩掉「重资产」的包袱</title>
-      <link>https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html</link>
-      <description>&lt;![CDATA[矿卡智驾是不是好生意？三年亏损12.4亿元，易控智驾仍未甩掉「重资产」的包袱]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html</guid>
+      <title>AI基础设施的下一个千亿市场，为何藏在网络里？</title>
+      <link>https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html</link>
+      <description>&lt;![CDATA[AI基础设施的下一个千亿市场，为何藏在网络里？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-07-03日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-03/</link>
-      <description>&lt;![CDATA[2026-07-03日刊]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-03/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室</title>
-      <link>https://www.qbitai.com/2026/07/442311.html</link>
-      <description>&lt;![CDATA[黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 05:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442311.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？</title>
-      <link>https://www.qbitai.com/2026/07/442167.html</link>
-      <description>&lt;![CDATA[基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 03:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442167.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>世界模型的新用途：不做选手，去当裁判</title>
-      <link>https://www.qbitai.com/2026/07/442138.html</link>
-      <description>&lt;![CDATA[世界模型的新用途：不做选手，去当裁判]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 01:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442138.html</guid>
+      <title>算力之外的博弈：ICML 2026 透露了哪些学术硬通货？</title>
+      <link>https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html</link>
+      <description>&lt;![CDATA[算力之外的博弈：ICML 2026 透露了哪些学术硬通货？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html</guid>
       <category>Ai</category>
     </item>
   </channel>
