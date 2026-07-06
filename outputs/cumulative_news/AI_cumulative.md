@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-05 23:57
+**最后更新时间**: 2026-07-06 08:55
+
+---
+
+## 🆕 最新更新 (2026-07-06 08:55)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨ACM戈登贝尔奖得主杨超领衔，北大系顶尖团队入局物理 AI 底层基建](https://www.leiphone.com/category/industrynews/PjJzoF1Rb0WPXHxd.html)
+**发布时间**: 2026-07-06 14:10
+
+#### [沙利文全栈AI云服务报告：阿里云占比40.1%，超第二至第四名总和](https://www.leiphone.com/category/industrynews/NN8pPZMe5DQqTILU.html)
+**发布时间**: 2026-07-06 11:42
+
+#### [打造“青年安居新范式”！第三座小米青年公寓开放入住，三城累计建成12栋公寓、4214套房源](https://www.leiphone.com/category/industrynews/dpOS3DMEz2mPqLRH.html)
+**发布时间**: 2026-07-06 10:59
+
+#### [打破末端配送壁垒，佑驾创新正式发布四轮足机器人](https://www.leiphone.com/category/industrynews/Ql20V4DpxJjluNFB.html)
+**发布时间**: 2026-07-06 10:47
+
+#### [清华火神队成功卫冕RoboCup 2026世界冠军，加速进化构筑全球具身智能“通用底座”](https://www.leiphone.com/category/industrynews/npqwbPeARWQkGrpW.html)
+**发布时间**: 2026-07-06 10:32
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-06日刊](https://hex2077.dev/docs/2026-07/2026-07-06/)
+**发布时间**: 2026-07-06 11:45
+
+#### [2026-07-05日刊](https://hex2077.dev/docs/2026-07/2026-07-05/)
+**发布时间**: 2026-07-05 10:49
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5](https://www.qbitai.com/2026/07/443559.html)
+**发布时间**: 2026-07-06 04:14
+
+#### [征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？](https://www.qbitai.com/2026/07/443522.html)
+**发布时间**: 2026-07-06 01:54
+
+#### [征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代](https://www.qbitai.com/2026/07/443399.html)
+**发布时间**: 2026-07-06 01:45
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels)
+**发布时间**: 2026-07-06 00:00
 
 ---
 
