@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-08 10:07
+**最后更新时间**: 2026-07-09 00:00
+
+---
+
+## 🆕 最新更新 (2026-07-09 00:00)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude apps gateway for AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)
+**发布时间**: 2026-07-08 19:49
+
+#### [Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research](https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/)
+**发布时间**: 2026-07-08 16:57
+
+#### [Automatically sort and prioritize your mailboxes by using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/)
+**发布时间**: 2026-07-08 16:55
+
+#### [Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio](https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/)
+**发布时间**: 2026-07-08 16:51
+
+#### [Securing Amazon Bedrock AgentCore Runtime with AWS WAF](https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/)
+**发布时间**: 2026-07-08 15:57
+
+#### [Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/)
+**发布时间**: 2026-07-08 15:53
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 4-1](https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html)
+**发布时间**: 2026-07-08 18:27
+
+#### [ICML 精选Spotlight Poster汇总：Session 4-3](https://www.leiphone.com/category/private/7a2o088m7EXWQXv5.html)
+**发布时间**: 2026-07-08 18:11
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 5-1](https://www.leiphone.com/category/private/IhY5GDnAU9wolRhr.html)
+**发布时间**: 2026-07-08 18:11
+
+#### [ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才](https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html)
+**发布时间**: 2026-07-08 18:02
+
+#### [ICML 精选Spotlight Poster汇总：Session 3-3](https://www.leiphone.com/category/private/FZR4n7bdZzbcDdfv.html)
+**发布时间**: 2026-07-08 17:09
+
+#### [独家丨成本压力暴增，新一代理想L6或将涨价](https://www.leiphone.com/category/transportation/PK27OwRQot76MCUe.html)
+**发布时间**: 2026-07-08 16:48
+
+#### [硬核少年技术节5.0京杭即将启幕，四项AIGX硬核成果发布，AI从工具走向伙伴](https://www.leiphone.com/category/industrynews/lvwelxWS3FzEHX4S.html)
+**发布时间**: 2026-07-08 16:28
+
+#### [官宣！中通快运接入AI版支付宝，一句话直达高效物流服务](https://www.leiphone.com/category/industrynews/5eKwrT43WHs8AwI7.html)
+**发布时间**: 2026-07-08 16:24
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 3-1](https://www.leiphone.com/category/private/7KHeasyoIRgGkQF4.html)
+**发布时间**: 2026-07-08 15:43
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
+**发布时间**: 2026-07-08 17:16
+
+#### [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
+**发布时间**: 2026-07-08 00:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/)
+**发布时间**: 2026-07-08 15:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代](https://www.qbitai.com/2026/07/446411.html)
+**发布时间**: 2026-07-08 13:29
+
+#### [具身智能“高考”难疯了！人类100分，最强模型12.8](https://www.qbitai.com/2026/07/446363.html)
+**发布时间**: 2026-07-08 13:07
+
+#### [横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发](https://www.qbitai.com/2026/07/446356.html)
+**发布时间**: 2026-07-08 10:15
+
+#### [“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开](https://www.qbitai.com/2026/07/446226.html)
+**发布时间**: 2026-07-08 10:04
+
+#### [别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化](https://www.qbitai.com/2026/07/446075.html)
+**发布时间**: 2026-07-08 09:08
 
 ---
 
