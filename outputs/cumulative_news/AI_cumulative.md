@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-20 07:51
+**最后更新时间**: 2026-07-20 10:40
+
+---
+
+## 🆕 最新更新 (2026-07-20 10:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [姚卯青、张正友、徐丹飞等七位大佬同席，这届 WAIC 把具身未来聊透了](https://www.leiphone.com/category/academic/tpEMqz2SnlQ8fDPI.html)
+**发布时间**: 2026-07-20 15:33
+
+#### [不止 Token 工厂，无问芯穹“前店后厂一中心”Agentic Infra 战略布局重磅发布](https://www.leiphone.com/category/industrynews/Bd9P3BDlfNMuYJ8V.html)
+**发布时间**: 2026-07-20 15:18
+
+#### [从CPU到Agentic OS，此芯走向智能体的「调度中枢」｜WAIC 2026](https://www.leiphone.com/category/chips/4JCICECxlFdQqpE3.html)
+**发布时间**: 2026-07-19 09:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面](https://www.qbitai.com/2026/07/455805.html)
+**发布时间**: 2026-07-20 10:33
+
+#### [当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%](https://www.qbitai.com/2026/07/455791.html)
+**发布时间**: 2026-07-20 09:54
+
+#### [全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力](https://www.qbitai.com/2026/07/455729.html)
+**发布时间**: 2026-07-20 09:41
+
+#### [启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026](https://www.qbitai.com/2026/07/455730.html)
+**发布时间**: 2026-07-20 09:21
+
+#### [AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单](https://www.qbitai.com/2026/07/455658.html)
+**发布时间**: 2026-07-20 09:05
+
+#### [WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证](https://www.qbitai.com/2026/07/455596.html)
+**发布时间**: 2026-07-20 09:03
+
+#### [GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！](https://www.qbitai.com/2026/07/455593.html)
+**发布时间**: 2026-07-20 08:52
+
+#### [国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相](https://www.qbitai.com/2026/07/455517.html)
+**发布时间**: 2026-07-20 08:44
+
+#### [WAIC之外，一张AI人才图谱正在知乎形成](https://www.qbitai.com/2026/07/455496.html)
+**发布时间**: 2026-07-20 08:06
 
 ---
 
