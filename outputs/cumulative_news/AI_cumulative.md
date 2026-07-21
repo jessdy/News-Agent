@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-21 07:28
+**最后更新时间**: 2026-07-21 10:14
+
+---
+
+## 🆕 最新更新 (2026-07-21 10:14)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [百万辆装车之后，华为乾崑如何迈向下一代智能驾驶](https://www.leiphone.com/category/transportation/p9FQYmxumukWgNIG.html)
+**发布时间**: 2026-07-21 16:06
+
+#### [国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载](https://www.leiphone.com/category/chips/iWlm9n5NckNHsVW5.html)
+**发布时间**: 2026-07-21 14:58
+
+#### [Momenta股价涨超10%，Robotaxi业务取得新进展](https://www.leiphone.com/category/industrynews/UL3cMKpyXdpasEOo.html)
+**发布时间**: 2026-07-21 13:46
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
+**发布时间**: 2026-07-21 00:00
 
 ---
 
