@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-21 10:14
+**最后更新时间**: 2026-07-21 23:48
+
+---
+
+## 🆕 最新更新 (2026-07-21 23:48)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨腾讯整合Workbuddy与QClaw团队](https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html)
+**发布时间**: 2026-07-21 23:46
+
+#### [WAIC重磅成果｜智爱赛思全面升级并发布科研专属 Token Plan](https://www.leiphone.com/category/industrynews/GkXvkOUPT9uoUFe3.html)
+**发布时间**: 2026-07-21 19:57
+
+#### [WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力](https://www.leiphone.com/category/industrynews/yfYUql1ioSOVYTEn.html)
+**发布时间**: 2026-07-21 19:51
+
+#### [【新闻稿】小鹏品牌日暨MONA L03上市发布会](https://www.leiphone.com/category/industrynews/8P6xYJjBbATLMRyy.html)
+**发布时间**: 2026-07-21 19:16
+
+#### [零跑全新B01和B10越级上市，开启10万级800V时代](https://www.leiphone.com/category/industrynews/kkaBDb3wRcQoQ891.html)
+**发布时间**: 2026-07-21 19:10
+
+#### [火山引擎与安永达成战略合作，助力企业迈向 AI 原生架构](https://www.leiphone.com/category/industrynews/ZNTFoXwJNzRr47WD.html)
+**发布时间**: 2026-07-21 17:56
+
+#### [端侧AI不是云端AI的缩小版，安谋科技要建边端侧AI算力底座｜WAIC 2026](https://www.leiphone.com/category/chips/ove6AbsecNklNHEI.html)
+**发布时间**: 2026-07-21 16:26
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/)
+**发布时间**: 2026-07-21 22:35
+
+#### [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/)
+**发布时间**: 2026-07-21 15:36
+
+#### [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/)
+**发布时间**: 2026-07-21 15:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)
+**发布时间**: 2026-07-21 20:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)
+**发布时间**: 2026-07-21 16:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》](https://www.qbitai.com/2026/07/456052.html)
+**发布时间**: 2026-07-21 09:39
+
+#### [WAIC重磅成果｜上海市教育算力专区正式开启试运行](https://www.qbitai.com/2026/07/456026.html)
+**发布时间**: 2026-07-21 09:30
+
+#### [WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan](https://www.qbitai.com/2026/07/456021.html)
+**发布时间**: 2026-07-21 09:21
+
+#### [WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力](https://www.qbitai.com/2026/07/455998.html)
+**发布时间**: 2026-07-21 09:15
 
 ---
 
