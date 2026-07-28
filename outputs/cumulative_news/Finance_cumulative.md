@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-27 08:23
+**最后更新时间**: 2026-07-28 07:34
+
+---
+
+## 🆕 最新更新 (2026-07-28 07:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI stock sell-off deepens as investors dump chipmakers](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 07:14
+
+#### [The unexpected winners from China’s blockbuster chip IPO](https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 05:35
+
+#### [The UAE’s bold gambit on Iran](https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [How Iran adapted its missile war with Trump](https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [TotalEnergies benefits from EU sanctions reprieve on Russian gas](https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [EU hesitates to target Irish plant accused of supplying Russia’s war industry](https://www.ft.com/content/ef7ff634-b738-4975-91b5-2edffc51da68?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [Nvidia behind $50bn lease on Texas data centre that will use its chips](https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [Big Tech credit risks rise sharply as AI spending soars](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 20:55
+
+#### [Trump says Israel ‘would not survive’ without US](https://www.ft.com/content/0a0684fe-2ba0-4909-82ca-0e5e70955ce3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 17:51
+
+#### [Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 17:20
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns](https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 01:19
+
+#### [‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?](https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 22:00
+
+#### [‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?](https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 21:46
+
+#### [Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.](https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 21:37
+
+#### [More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom](https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 21:35
+
+#### [Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.](https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 21:03
+
+#### [He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money](https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 21:02
+
+#### [For 44 years, this investor held aces in the long-bond game. He just folded.](https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 20:52
+
+#### [SpaceX’s stock falls to a new low despite a near-flawless Starship flight](https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories)
+**发布时间**: 2026-07-27 20:41
 
 ---
 
