@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-31 10:28
+**最后更新时间**: 2026-08-01 07:23
+
+---
+
+## 🆕 最新更新 (2026-08-01 07:23)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-01日刊](https://hex2077.dev/docs/2026-08/2026-08-01/)
+**发布时间**: 2026-08-01 10:52
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！](https://www.qbitai.com/2026/08/464693.html)
+**发布时间**: 2026-08-01 05:02
+
+#### [李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”](https://www.qbitai.com/2026/08/464532.html)
+**发布时间**: 2026-08-01 04:53
+
+#### [黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来](https://www.qbitai.com/2026/08/464452.html)
+**发布时间**: 2026-08-01 03:38
+
+#### [Anthropic模型，也失控了。。。](https://www.qbitai.com/2026/08/464412.html)
+**发布时间**: 2026-08-01 03:18
+
+#### [AI顶会现场，见到了一家美妆巨头](https://www.qbitai.com/2026/08/464364.html)
+**发布时间**: 2026-08-01 02:52
+
+#### [SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI](https://www.qbitai.com/2026/07/464328.html)
+**发布时间**: 2026-07-31 09:11
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？](https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html)
+**发布时间**: 2026-07-31 19:58
+
+#### [Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球](https://www.leiphone.com/category/ai/mER69AfKN23gn4Yt.html)
+**发布时间**: 2026-07-31 19:30
+
+#### [卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？](https://www.leiphone.com/category/ai/Q24LRPqt1A6EUYiv.html)
+**发布时间**: 2026-07-31 19:26
+
+#### [美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点](https://www.leiphone.com/category/industrynews/3QgMEdc9pkFxrmt4.html)
+**发布时间**: 2026-07-31 19:21
+
+#### [一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到](https://www.leiphone.com/category/ai/JpGvdH7oYOZjU3lS.html)
+**发布时间**: 2026-07-31 19:16
+
+#### [谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案](https://www.leiphone.com/category/ai/3UBe8gjtw8tFTQvJ.html)
+**发布时间**: 2026-07-31 19:10
+
+#### [AI 正在变成一门制造业 | WAIC 2026 Agent 产品观察](https://www.leiphone.com/category/yanxishe/uSlPIJ79kvvSAf9r.html)
+**发布时间**: 2026-07-31 18:41
+
+#### [首家国产自研GPU厂商登陆ChinaJoy，砺算LX 7G100消费显卡零售版全面开售](https://www.leiphone.com/category/industrynews/dtHMAsbab0PVgnhU.html)
+**发布时间**: 2026-07-31 18:33
+
+#### [1/8 参数，跑赢 80B 大模型：Boogu-Image 是黑马还是鸡肋？](https://www.leiphone.com/category/industrynews/mjR1R5Z1wgosxBg7.html)
+**发布时间**: 2026-07-31 18:01
+
+#### [刚刚，DeepSeek V4 系列更新，架构没变，Agent 能力为何大涨](https://www.leiphone.com/category/ai/EBSerg3DFtWmMap4.html)
+**发布时间**: 2026-07-31 17:16
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)
+**发布时间**: 2026-07-31 19:53
+
+#### [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)
+**发布时间**: 2026-07-31 15:33
+
+#### [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)
+**发布时间**: 2026-07-30 17:22
 
 ---
 
