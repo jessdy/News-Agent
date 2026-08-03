@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 09:51
+**最后更新时间**: 2026-08-03 08:24
+
+---
+
+## 🆕 最新更新 (2026-08-03 08:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote](https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 07:47
+
+#### [Japan vows to intervene again with US over yen if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 07:40
+
+#### [Team America: Yen police](https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 05:30
+
+#### [Wall Street learns to love blockchain](https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 04:00
+
+#### [Whatever happened to prudence?](https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 04:00
+
+#### [A digital iron curtain is threatening the global economy](https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23)
+**发布时间**: 2026-08-03 04:00
+
+#### [AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up](https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 23:59
+
+#### [Uefa threatens legal action over Infantino’s failed Fifa commercialisation](https://www.ft.com/content/ddb7c0d4-c156-48a0-b30f-d03f605a1a9c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 22:01
+
+#### [Morocco counts its dead and missing after mass swim to Ceuta](https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 15:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 15:19
+
+#### [S&P 500 profit growth is getting even wilder as Amazon makes its mark](https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 14:00
+
+#### [How Apple’s cheap MacBook Neo sparked a war in budget laptops](https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 13:00
+
+#### [Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.](https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
+
+#### [Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.](https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
 
 ---
 
